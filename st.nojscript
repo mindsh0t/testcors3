@@ -1,0 +1,16 @@
+﻿var d=document.location.href
+var welcome = "Stock-Tracker";
+    psid  = d.replace(/.*psid=/,"")
+        if (psid != d) {
+      myid = 'tracker'
+    }
+    psid2 = "<div id=\"" + psid + "\" class=\"card\""
+    console.log(psid2)
+window.onload = function () {
+  myhost = document.location.href.replace(/(^http(|s):\/\/.*)\/.*/i,"$1").replace(/(^http(|s):\/\/.*)\?.*/i,"$1").replace(/(^http(|s):\/\/.*)\&.*/i,"$1");
+  fetch('/' + myhost + '/datatable')
+  .then((response) => response.text())
+  .then(function(localdata) {
+  localdata = localdata.replace(/^\"/,"strtfrble").replace(/\"$/,"").replace(/\\\"/g,"\"").replace(psid2,"__DLTMPLS__").replace(/.*__DLTMPLS__/,"").replace(/<\/figure>.*/,"").replace(/.*<figure class=\"shortcode/,"<figure class=\"shortcode").replace(/<\/table>.*/,"</table></div></figure></div>").replace(/<button class=\".*<\/button>/,"").replace(/<tr id=\"/g,"\n<tr id=\"").replace(/<td class=\"trackerinfo.*/g,"<\/tr>").replace(/\n/g,"")
+  document.getElementById(myid).innerHTML = localdata;
+    })}

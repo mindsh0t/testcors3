@@ -1,0 +1,1247 @@
+﻿var table = {
+  "direct.playstation.com/en-us/consoles/console/playstation-4-1tb-console.3003348": {"col2":"299.99 "},
+  "direct.playstation.com/en-us/consoles/console/playstation-4-pro-1tb-console.3003346": {"col2":"399.99 "},
+  "i": {"col2":"199.99 "},
+  "amazon.com/nintendo-switch-lite-gray/dp/b07v2bbmk4": {"col2":"199.99 "},
+  "amazon.com/nintendo-switch-lite-turquoise/dp/b07v4gcfp9": {"col2":"199.99 "},
+  "amazon.com/nintendo-switch-lite-yellow/dp/b07v3g6c1f": {"col2":"199.99 "},
+  "amazon.com/oculus-quest-all-gaming-headset-android/dp/b07hnw68zc": {"col2":"399.00 "},
+  "amazon.com/oculus-quest-all-gaming-headset-android/dp/b07prdgytw": {"col2":"499.00 "},
+  "amazon.com/playstation-4-slim-1tb-console/dp/b01lop8ezc": {"col2":"399.99 "},
+  "amazon.com/playstation-4-slim-1tb-console/dp/b071cv8cg2": {"col2":"299.99 "},
+  "amazon.com/xbox-all-digital-console-disc-free-gaming/dp/b07xqxzxjc": {"col2":"249.00 "},
+  "amazon.com/xbox-one-s-1tb-console-discontinued/dp/b073858q9x": {"col2":"299.00 "},
+  "amazon.com/dp/b084y3vvng": {"col2":"199.99 "},
+  "amazon.com/dp/b07v2bbmk4": {"col2":"199.99 "},
+  "amazon.com/dp/b07v4gcfp9": {"col2":"199.99 "},
+  "amazon.com/dp/b07v3g6c1f": {"col2":"199.99 "},
+  "amazon.com/dp/b07hnw68zc": {"col2":"399.00 "},
+  "amazon.com/dp/b07prdgytw": {"col2":"499.00 "},
+  "amazon.com/dp/b01lop8ezc": {"col2":"399.99 "},
+  "amazon.com/dp/b071cv8cg2": {"col2":"299.99 "},
+  "amazon.com/dp/b07xqxzxjc": {"col2":"249.00 "},
+  "amazon.com/dp/b073858q9x": {"col2":"299.00 "},
+  "bestbuy.com/site/microsoft-xbox-one-s-1tb-all-digital-edition-console-disc-free-gaming-white/6375659.p": {"col2":"249.00 "},
+  "bestbuy.com/site/microsoft-xbox-one-s-1tb-console-bundle-white/6415222.p": {"col2":"299.00 "},
+  "bestbuy.com/site/nintendo-geek-squad-certified-refurbished-switch-32gb-lite-coral/6407084.p": {"col2":"199.99 "},
+  "bestbuy.com/site/nintendo-geek-squad-certified-refurbished-switch-lite-gray/6381893.p": {"col2":"199.99 "},
+  "bestbuy.com/site/nintendo-geek-squad-certified-refurbished-switch-lite-turquoise/6377155.p": {"col2":"199.99 "},
+  "bestbuy.com/site/nintendo-geek-squad-certified-refurbished-switch-lite-zacian-and-zamazenta-edition/6391375.p": {"col2":"199.99 "},
+  "bestbuy.com/site/nintendo-switch-32gb-lite-coral/6257148.p": {"col2":"199.99 "},
+  "bestbuy.com/site/nintendo-switch-32gb-lite-gray/6257135.p": {"col2":"199.99 "},
+  "bestbuy.com/site/nintendo-switch-32gb-lite-turquoise/6257139.p": {"col2":"199.99 "},
+  "bestbuy.com/site/nintendo-switch-32gb-lite-yellow/6257142.p": {"col2":"199.99 "},
+  "bestbuy.com/site/oculus-quest-all-in-one-vr-gaming-headset-128gb-black/6342915.p": {"col2":"499.00 "},
+  "bestbuy.com/site/oculus-quest-all-in-one-vr-gaming-headset-64gb-black/6342914.p": {"col2":"399.00 "},
+  "bestbuy.com/site/sony-geek-squad-certified-refurbished-playstation-4-pro-console-jet-black/6302872.p": {"col2":"399.99 "},
+  "bestbuy.com/site/sony-playstation-4-1tb-console-black/5850905.p": {"col2":"299.99 "},
+  "bestbuy.com/site/oculus-quest-2-all-in-one-vr-gaming-headset-64gb/6429498.p": {"col2":"299.99 "},
+  "bestbuy.com/site/sony-playstation-4-pro-console-jet-black/5388900.p": {"col2":"399.99 "},
+  "gamestop.com/nav-accessories-vr/products/oculus-quest-128gb/10176626.html": {"col2":"499.00 "},
+  "gamestop.com/nav-accessories-vr/products/oculus-quest-64gb/10176627.html": {"col2":"399.00 "},
+  "gamestop.com/video-games/playstation-4/consoles/products/playstation-4-pro-black-1tb/10134659.html": {"col2":"399.99 "},
+  "gamestop.com/video-games/playstation-4/consoles/products/playstation-4-slim-black-1tb/10147719.html": {"col2":"299.99 "},
+  "gamestop.com/video-games/switch/consoles/products/nintendo-switch-lite-coral/11100555.html": {"col2":"199.99 "},
+  "gamestop.com/video-games/switch/consoles/products/nintendo-switch-lite-gray/11095774.html": {"col2":"199.99 "},
+  "gamestop.com/video-games/switch/consoles/products/nintendo-switch-lite-turquoise/11095775.html": {"col2":"199.99 "},
+  "gamestop.com/video-games/switch/consoles/products/nintendo-switch-lite-yellow/11095776.html": {"col2":"199.99 "},
+  "gamestop.com/video-games/xbox-one/consoles/products/xbox-one-s-all-digital-edition-1tb/11050717.html": {"col2":"249.00 "},
+  "gamestop.com/video-games/xbox-one/consoles/products/xbox-one-s-white-1tb/10138875.html": {"col2":"299.00 "},
+  "microsoft.com/en-us/p/xbox-one-s-1tb-console/8wx957hmtfnc": {"col2":"299.00 "},
+  "microsoft.com/en-us/p/xbox-one-s-all-digital-edition/92dm35pf7lsn": {"col2":"249.00 "},
+  "newegg.com/black-sony-3001510-playstation-4-console/p/n82e16868110214": {"col2":"399.99 "},
+  "newegg.com/black-sony-3002338-playstation-4-slim-console/p/n82e16868110264": {"col2":"299.99 "},
+  "newegg.com/coral-nintendo-lite-hdhspazaa-nintendo-switch-lite-console/p/3bj-0001-001y6": {"col2":"199.99 "},
+  "newegg.com/grey-hdhsgazaa-nintendo-switch-lite-console/p/n82e16878190839": {"col2":"199.99 "},
+  "newegg.com/neon-hdhsgbzaa-nintendo-switch-lite-console/p/n82e16878190836": {"col2":"199.99 "},
+  "newegg.com/oculus-quest-head-mounted-display/p/n82e16826910012": {"col2":"399.00 "},
+  "newegg.com/oculus-quest-head-mounted-display/p/n82e16826910013": {"col2":"499.00 "},
+  "newegg.com/turquoise-hdhsbazaa-nintendo-switch-lite-console/p/n82e16878190838": {"col2":"199.99 "},
+  "newegg.com/yellow-hdhsyazaa-nintendo-switch-lite-console/p/n82e16878190835": {"col2":"199.99 "},
+  "walmart.com/ip/nintendo-switch-lite-console-gray/907697007": {"col2":"199.99 "},
+  "walmart.com/ip/nintendo-switch-lite-console-turquoise/306029956": {"col2":"199.99 "},
+  "walmart.com/ip/nintendo-switch-lite-console-yellow/406500710": {"col2":"199.99 "},
+  "walmart.com/ip/oculus-quest-128gb-vr-headset/731331876": {"col2":"499.00 "},
+  "walmart.com/ip/oculus-quest-64gb-vr-headset/472031416": {"col2":"399.00 "},
+  "walmart.com/ip/sony-playstation-4-1tb-slim-gaming-console/101507200": {"col2":"299.99 "},
+  "walmart.com/ip/sony-playstation-4-pro-1tb-gaming-console-wireless-game-pad-black/741505081": {"col2":"399.99 "},
+};
+var d=document.location.href
+var welcome = "Stock-Tracker";
+    ST = welcome.split("").map(v=>v.charCodeAt(0)).reduce((a,v)=>a+((a<<7)+(a<<3))^v).toString(16);
+    Init = d.replace(ST,"init").replace(/.*sc=(init).*/i,"$1");
+    myhost = d.replace(/(^http(|s):\/\/.*)\/.*/i,"$1").replace(/(^http(|s):\/\/.*)\?.*/i,"$1").replace(/(^http(|s):\/\/.*)\&.*/i,"$1");
+    cors1 = d.replace(/.*\&cors1=(.*)endcors1.*/,"$1")
+    cors2 = d.replace(/.*\&cors2=(.*)endcors2.*/,"$1")
+    if (cors2 == d) {
+      cors2 = myhost
+    }
+    else {
+      cors2 = "http://" + cors2
+    }
+    if (cors1 == d) {
+      cors1 = ''
+    }
+    else {
+      cors1 = "http://" + cors1
+    }
+window.onload = function () {
+
+  fetch('/' + myhost + '/datatable')
+  .then((response) => response.text())
+  .then(function(localdata) {
+  localdata = localdata.replace(/^\"/,"").replace(/\"$/,"").replace(/\\\"/g,"\"")
+
+
+  if (localdata.replace(/card/,"") == localdata) {
+    clearbutton = "";
+}
+else {
+clearbutton = "<button class=\"export1\" type=\"button\" onclick=\"return confirm('Are you sure you want to wipe the slate clean?') && clearall()\" title=\"Clear all\">X</button>"
+}
+if (localdata.replace(/http(|s):\/\/software-files-a.cnet.com/,"").replace(/http/,"") != localdata.replace(/http(|s):\/\/software-files-a.cnet.com/,"")) {
+    clearbutton = "<button class=\"export2\" type=\"button\" onclick=\"return confirm('Are you sure you want to recheck all entries?') && recheckall()\" title=\"Recheck all entries now\">↻</button><button class=\"export1\" type=\"button\" onclick=\"return confirm('Are you sure you want to wipe the slate clean?') && clearall()\" title=\"Clear all\">X</button>"
+}
+
+
+if (JSON.parse(window.localStorage.getItem('interval-new')) != null) {
+  interval = JSON.parse(window.localStorage.getItem('interval-new'))
+  }
+   else {
+    interval = "74000000"
+  }
+  ref = "<option value=\"74000000\">Refresh mode: default</option><option value=\"3600000\">Refresh mode: server<\/option><option value=\"2000000\">Refresh mode: test</option>";
+  if (interval == "3600000") {
+    ref = "<option value=\"3600000\">Refresh mode: server<\/option><option value=\"2000000\">Refresh mode: test</option><option value=\"74000000\">Refresh mode: default</option>";
+    }
+    if (interval == "600000") {
+      ref = "<option value=\"200000\">Refresh mode: test</option><option value=\"3600000\">Refresh mode: server<\/option><option value=\"74000000\">Refresh mode: default</option>";
+      }
+      if (interval == "74000000") {
+        ref = "<option value=\"74000000\">Refresh mode: default</option><option value=\"3600000\">Refresh mode: server<\/option><option value=\"2000000\">Refresh mode: test</option>";
+        }
+        tracker = "<div class=\"header-wrap\"><div class=\"header\"><h5 style=\"vertical-align:middle; display:table-cell;\"><img style=\"vertical-align:middle; height:1.1em\" src=\"logo2.png\"\/><\/h5><\/div><\/div><div id=\"datatable\">" + localdata + "<\/div><div><table id=\"addtable\" style=\"position:relative; top: 65px;\"><tbody><tr><td><textarea id=\"mypsidinput\" placeholder=\"Add new product set (enter product name)\" rows=\"1\" cols=\"40\" oninput=\"auto_grow(this)\"><\/textarea><\/td><td><button id=\"addPS\" class=\"save1\">+<\/button><\/td><\/tr><\/table><\/div>" + clearbutton + "<div class=\"footer\"><div><select id=\"refreshint\">" + ref + "</select><\/div><\/div><\/div>"
+        if (Init !== "init") {
+        tracker = ""
+        }
+        document.getElementById('tracker').innerHTML = tracker;
+        addPS.addEventListener('click', addPSID);
+
+ })}
+
+function addPSID() {
+  var mybody = document.getElementById('datatable').innerHTML
+  let mypsidinput = document.querySelector("#mypsidinput").value;
+psidhash = mypsidinput.split("").map(v=>v.charCodeAt(0)).reduce((a,v)=>a+((a<<7)+(a<<3))^v).toString(16);
+checkpsid = "<div id=\"" + psidhash + "\" class=\"card\""
+if (mybody.replace(checkpsid,"") != mybody) {
+alert ("Product set \"" + mypsidinput + "\" is already in the list. Please choose another name.");
+} else {
+  cardout="<div id=\"" + psidhash + "\" class=\"card\" style=\"position:relative; top: 55px;\"><figure class=\"shortcode chart type_geekboxchart\" section=\"shortcodeGeekboxChart\"><h2><span>" + mypsidinput + "<\/span><\/h2><button class=\"cardbutton1\" type=\"button\" onclick=\"return confirm('Are you sure you want to delete this product set?') &amp;&amp; deletepsid(this.id)\" title=\"Delete product set\" id=\"delete_" + psidhash + "\"><img style=\"vertical-align:middle; height:1em\" src=\"delete.png\"><\/button><div class=\"chartWrapper\" id=\"" + psidhash + "_table\"><div  class = \"cardplaceholder\">No links added for this product set yet.<\/div><\/div><\/figure><table id=\"" + psidhash + "_inputtable\"><tbody><tr><td><textarea id=\"myinputIn_" + psidhash + "\" placeholder=\"Add new " + mypsidinput + " link to track\" rows=\"1\" cols=\"240\" oninput=\"auto_grow(this)\"><\/textarea><\/td><td><button id=\"addButton_" + psidhash + "\" class=\"save1\" onclick=\"addEntry(this.id)\">+<\/button><\/td><\/tr><tr><\/tr><\/table><p><\/div>"
+  
+  document.getElementById('datatable').innerHTML = mybody + cardout;
+  document.getElementById('mypsidinput').outerHTML = "<textarea id=\"mypsidinput\" placeholder=\"Add new product set (enter product name)\" rows=\"1\" cols=\"40\" oninput=\"auto_grow(this)\"><\/textarea>";}
+  save = savedata()
+}
+    function addEntry(psid) {
+psid = psid.replace (/^addButton_/,"")
+var tab = document.getElementById(psid + "_table").innerHTML
+let myinputIn = document.querySelector("#myinputIn_" + psid).value;
+let outalert = ""
+if (tab.replace(/http/,"") == tab) {
+              myoutput = "<table><tbody>";
+}
+ else {
+              myoutput = tab.replace(/<\/tbody><\/table>/,"")
+}
+        var myinput = myinputIn.replace(/^\s*[\r\n]/gm, "")
+if ((myinput.replace(/[0-9.$ ]/g,"") == "") && (myinput.replace(/\d/,"") != myinput)) {
+  document.getElementById('msrp_' + psid).innerHTML = "MSRP: $" + Math.round((myinput.replace(/(\d),(\d)/,"$1$2").replace(/\,.*/,"")).match(/[0-9]*\.?[0-9]/))
+}
+        var lines = myinput.split('\n');
+        for (var line = 0; line < lines.length; line++) {
+            let temp = lines[line];
+mylink = ("lnkinit" + temp).replace(/(http(|s):\/\/.*)/,"mylnkstrt$1").replace(/.*mylnkstrt/,"").replace(/ .*/,"").replace(/lnkinit.*/,"")
+mylink2 = ("lnkinit" + temp).replace(/(www\.*)/,"mylnkstrthttps://$1").replace(/ .*/,"").replace(/.*mylnkstrt/,"").replace(/lnkinit.*/,"")
+if ((mylink == "") && (mylink2 != "")) {
+mylink = mylink2
+}
+if (typeof table[mylink.toLowerCase().replace(/^http:\/\//,"").replace(/^https:\/\//,"").replace(/^www\./,"").replace(/\/ref=.*/, "").replace(/\?.*/, "").replace(/\&.*/, "").replace(/$\//, "")] != 'undefined') { foundmsrp = table[mylink.toLowerCase().replace(/^http:\/\//,"").replace(/^https:\/\//,"").replace(/^www\./,"").replace(/\/ref=.*/, "").replace(/\?.*/, "").replace(/\&.*/, "").replace(/$\//, "")]["col2"]} else { foundmsrp = ""}
+if (foundmsrp == "") {
+checklink = mylink.toLowerCase().replace(/^http:\/\//,"").replace(/^https:\/\//,"").replace(/^www\./,"").replace(/\/ref=.*/, "").replace(/\?.*/, "").replace(/\&.*/, "").replace(/$\//, "").replace(/^amazon.com(.*)(\/dp\/.*)/, "amazon.com$2")
+}
+else {
+  checklink = mylink.toLowerCase().replace(/^http:\/\//,"").replace(/^https:\/\//,"").replace(/^www\./,"").replace(/\/ref=.*/, "").replace(/\?.*/, "").replace(/\&.*/, "").replace(/$\//, "")
+}
+if (typeof table[checklink] != 'undefined') { foundmsrp = table[checklink]["col2"]} else { foundmsrp = ""}
+const msrp = foundmsrp
+wrlink = "<a href=\"" + mylink + "\" target=\"_blank\" rel=\"noopener\">"
+if (myoutput.replace(/&amp;/g,"&").replace(wrlink,"") != myoutput.replace(/&amp;/g,"&")) {
+myalert = mylink + " is already in the list";
+}
+else {
+myalert = ""
+  }
+if (mylink.toLowerCase().replace(/^http(|s):\/\//i,"").replace(/^www\./i,"").replace(/^www\./i,"").replace(/^amazon\.com/i,"").replace(/^goto\.walmart\.com/i,"").replace(/^walmart\.com/i,"").replace(/^newegg\.com/i,"").replace(/^bestbuy\.com/i,"").replace(/^gamestop\.com/i,"").replace(/^microsoft\.com/i,"").replace(/^direct\.playstation\.com/i,"") == mylink.toLowerCase().replace(/^http(|s):\/\//i,"").replace(/^www\./i,"").replace(/^www\./i,"")) {
+              myalert = "Domain " + mylink.toLowerCase().replace(/^http(|s):\/\//i,"").replace(/^www\./i,"").replace(/\/.*/i,"").replace(/\?.*/i,"").replace(/\&.*/i,"") + " is not supported. Supported sites are: Amazon, Walmart, Newegg, BestBuy, GameStop, Microsoft Store and PlayStation hardware store";
+}
+if (mylink == "") {
+              myalert = "";
+}
+if (myalert != "") {
+              mylink = "";
+}
+sitename = mylink.toLowerCase().replace(/^http(|s):\/\//i,"").replace(/^www\./i,"").replace(/^www\./i,"").replace(/^amazon\.com.*/i,"Amazon").replace(/^goto\.walmart\.com.*/i,"Walmart").replace(/^walmart\.com.*/i,"Walmart").replace(/^newegg\.com.*/i,"Newegg").replace(/^bestbuy\.com.*/i,"Best Buy").replace(/^gamestop\.com.*/i,"Gamestop").replace(/^microsoft\.com.*/i,"Microsoft Store").replace(/^direct\.playstation\.com.*/i,"PlayStation Store")
+
+
+if ((outalert != "") && (myalert != "")) {
+outalert = "Not all links were eligible"
+}
+if ((outalert == "") && (myalert != "")) {
+outalert = myalert
+}
+if (mylink != "") {
+linkhash = mylink.split("").map(v=>v.charCodeAt(0)).reduce((a,v)=>a+((a<<7)+(a<<3))^v).toString(16);
+}
+else {
+linkhash = ""
+  }
+entryid = psid + "_psid_" + linkhash
+
+murl = "https://cbslnk.cbsileads.com/redir?rsid=cbsicnetglobalsite&pagetype=stock-tracker&destUrl=" + encodeURIComponent(mylink)
+if (sitename == "Amazon") {
+var amazon = mylink.replace(/&amp;/g,"&").replace(/&tag=(.*)/,"").replace(/\?tag=(.*)/,"").replace(/\/$/,"")
+var amazon = (amazon + "rplcme").replace(/(.*)\?(.*)/,"_mi_Amazon_mi_&tag=_mi_amazonbuy_mi_").replace(/rplcme/,"?tag=_mi_amazonbuy_mi_").replace(/_mi_Amazon_mi_/,amazon).replace(/_mi_amazonbuy_mi_/,"cnet-buy-button-20");
+murl = "https://cbslnk.cbsileads.com/redir?rsid=cbsicnetglobalsite&pagetype=stock-tracker&destUrl=" + encodeURIComponent(amazon)
+}
+if (sitename == "Walmart") {
+var walmart = "https://goto.walmart.com/c/159047/565706/9383?u=" + encodeURIComponent(mylink.replace(/\/$/,"")) + "&subid1=[subid_value]&sharedId=cnet"
+murl = "https://cbslnk.cbsileads.com/redir?rsid=cbsicnetglobalsite&pagetype=stock-tracker&destUrl=" + encodeURIComponent(walmart)
+}
+if (sitename == "Microsoft Store") {
+var microsoft = "https://click.linksynergy.com/deeplink?id=0JlRymcP1YU&mid=24542&murl=" + encodeURIComponent(mylink.replace(/\/$/,"")) + "&u1=[subid_value]"
+murl = "https://cbslnk.cbsileads.com/redir?rsid=cbsicnetglobalsite&pagetype=stock-tracker&destUrl=" + encodeURIComponent(microsoft)
+}
+if (sitename == "Best Buy") {
+var bestbuy = "https://bestbuy.7tiv.net/c/159047/614286/10014?u=" + encodeURIComponent(mylink.replace(/\/$/,"")) + "&subid1=[subid_value]&sharedId=cnet"
+murl = "https://cbslnk.cbsileads.com/redir?rsid=cbsicnetglobalsite&pagetype=stock-tracker&destUrl=" + encodeURIComponent(bestbuy)
+}
+if (sitename == "Newegg") {
+var newegg = "https://click.linksynergy.com/deeplink?id=0JlRymcP1YU&mid=44583&murl=" + encodeURIComponent(mylink.replace(/\/$/,"")) + "&u1=[subid_value]"
+murl = "https://cbslnk.cbsileads.com/redir?rsid=cbsicnetglobalsite&pagetype=stock-tracker&destUrl=" + encodeURIComponent(newegg)
+}
+if (sitename == "Gamestop") {
+var gamestop = "https://click.linksynergy.com/deeplink?id=0JlRymcP1YU&mid=24348&murl=" + encodeURIComponent(mylink.replace(/\/$/,"")) + "&u1=[subid_value]"
+murl = "https://cbslnk.cbsileads.com/redir?rsid=cbsicnetglobalsite&pagetype=stock-tracker&destUrl=" + encodeURIComponent(gamestop)
+}
+
+
+
+if (mylink != "") {
+out = "<tr id=\"tr_" + entryid + "\"><th id=\"th_" + entryid + "\"><a href=\"" + murl + "\" target=\"_blank\" rel=\"noopener noreferrer nofollow\" data-component=\"externalLink\">" + sitename + "<\/a><\/th><td id=\"stock_" + entryid + "\"><a href=\"" + murl + "\" target=\"_blank\" rel=\"noopener noreferrer nofollow\" data-component=\"externalLink\">Sold Out<\/a><\/td><td id=\"price_" + entryid + "\"><a href=\"" + murl + "\" rel=\"noopener noreferrer nofollow\" target=\"_blank\" data-component=\"externalLink\">n\/a<\/a><\/td><td id=\"murl_" + entryid + "\"><a href=\"" + murl + "\" rel=\"noopener noreferrer nofollow\" target=\"_blank\" data-component=\"externalLink\"><strong>See It<\/strong><\/a><\/td><td class=\"trackerinfo1\"><label class=\"collapse\" for=\"c_" + entryid + "\"><span class=\"details\" id=\"" + entryid + "_checked\"><div class=\"visloader\"><\/div><\/span><\/label><input id=\"c_" + entryid + "\" type=\"checkbox\"><div><div class=\"trackerinfo2\" id=\"" + entryid + "_name\">" + wrlink + "Checking<\/a><\/div><div class=\"trackerinfo3\" id=\"" + entryid + "_laststock\">In stock: never on my watch<\/div><div class=\"trackerinfo4\" id=\"" + entryid + "_stock\">Stock status: N\/A<\/div><div class=\"trackerinfo5\" id=\"" + entryid + "_price\">MSRP deviation: N/A<\/div><\/div><span class=\"timestamp\" id=\"" + entryid + "_timestamp\">Sat Jan 01 2000 12:00:00 GMT+0300 (Moscow Standard Time)_LCHCK_" + entryid + "<\/span><span class=\"actions\"><input type=\"button\" id=\"refresh_" + entryid + "\" value=\"↻\" class=\"refresh\" title=\"Recheck this entry now\" onclick=\"refreshentry(this.id)\"><input type=\"button\" id=\"delete_" + entryid + "\" value=\"X\" class=\"delete\" title=\"Remove this entry\" onclick=\"return confirm('Delete this entry?') &amp;&amp; deleteentry(this.id)\"><\/span><\/div><\/td><\/td>"
+}
+else {
+             out = ""
+  }
+
+  if ((mylink != "" ) && (document.getElementById('msrp_' + psid) == null)) {
+    document.getElementById('delete_' + psid).outerHTML = "<button class=\"cardbutton4\" type=\"button\" onclick=\"addmsrp(this.id)\" id=\"msrp_" + psid + "\">MSRP: N/A<\/button><button class=\"cardbutton3\" type=\"button\" title=\"Preview\" id=\"preview_" + psid + "\"><a href=\"stocktable.html?psid=" + psid + "\" target=\"_blank\" rel=\"noopener noreferrer nofollow\" data-component=\"externalLink\"><img style=\"vertical-align:middle; height:1em\" src=\"preview.png\"><\/a><\/button><button class=\"cardbutton2\" type=\"button\" onclick=\"return confirm('Are you sure you want to recheck all entries for this product?') &amp;&amp; recheckpsid(this.id)\" title=\"Recheck all entries for this product now\" id=\"refall_" + psid + "\"><img style=\"vertical-align:middle; height:1em\" src=\"refresh.png\"><\/button><button class=\"cardbutton1\" type=\"button\" onclick=\"return confirm('Are you sure you want to delete this product set?') &amp;&amp; deletepsid(this.id)\" title=\"Delete product set\" id=\"delete_" + psid + "\"><img style=\"vertical-align:middle; height:1em\" src=\"delete.png\"><\/button>"
+  }
+
+myoutput = myoutput + out
+}
+if (myoutput != "") {
+myoutput = myoutput + "<\/tbody><\/table>"
+if (myoutput.replace(/http/,"") == myoutput) {
+              myoutput = "";
+}
+}
+if ((outalert == "Not all links were eligible") && (myoutput == tab)) {
+outalert = "None of the links were eligible"
+}
+if (outalert != "") {
+alert (outalert)
+}
+
+
+
+if ((myoutput != "") && (document.getElementById('mypsidinput').outerHTML.replace(/clearall\(\)\" title=\"Clear all\">X<\/button>/,"") == document.getElementById('mypsidinput').outerHTML)) {
+  document.getElementById('mypsidinput').outerHTML = "<textarea id=\"mypsidinput\" placeholder=\"Add new product set (enter product name)\" rows=\"1\" cols=\"40\" oninput=\"auto_grow(this)\"><\/textarea><button class=\"export2\" type=\"button\" onclick=\"return confirm('Are you sure you want to recheck all entries?') && recheckall()\" title=\"Recheck all entries now\">↻</button><button class=\"export1\" type=\"button\" onclick=\"return confirm('Are you sure you want to wipe the slate clean?') && clearall()\" title=\"Clear all\">X</button>"
+}
+if ((out != "") && (document.getElementById('msrp_' + psid).innerHTML == "MSRP: N/A") && (foundmsrp != "")) {
+  document.getElementById('msrp_' + psid).innerHTML = "MSRP: $" + foundmsrp
+}
+document.getElementById(psid + "_table").innerHTML = myoutput;
+document.getElementById('myinputIn_' + psid).outerHTML = document.getElementById('myinputIn_' + psid).outerHTML.replace(/(.*)Add MSRP  value for (.*)\" rows=\"(.*)/,"$1Add new $2 link to track\" rows =\"$3").replace(/\" rows=\" link to track/," link to track");
+document.getElementById(psid + "_inputtable").innerHTML = document.getElementById(psid + "_inputtable").innerHTML.replace(/rows=\"\d{1,3}\"/,"rows=\"1\"").replace(/ style=\"height: \d{1,5}px\;\"/,"");
+
+
+save = savedata()
+if (out != "") {
+cnecknewbie =  refreshentry(entryid)
+}
+}
+function auto_grow(element) {
+if (typeof initialheight == 'undefined') {
+              initialheight = element.offsetHeight;
+}
+element.style.height = initialheight
+autoh = element.scrollHeight
+if (autoh < (initialheight + initialheight - 12)) {
+              autoh = initialheight;
+}
+if (autoh > 120) {
+              autoh = 120;
+}
+   element.style.height = autoh+"px";
+return initialheight
+}
+function deleteentry(val){
+  val = val.replace (/^delete_/,"")
+document.getElementById('tr_' + val).outerHTML = "";
+myset = val.replace (/_psid_.*/,"_table")
+if (document.getElementById(myset).innerHTML.replace(/http/,"") == document.getElementById(myset).innerHTML) {
+  document.getElementById(myset).innerHTML = "<div  class = \"cardplaceholder\">No links added for this product set yet.<\/div>"
+}
+
+
+save = savedata()
+}function deletepsid(val){
+  val = val.replace (/^delete_/,"")
+document.getElementById(val).outerHTML = "";
+save = savedata()
+}
+
+function refreshentry(val){
+val = val.replace (/^refresh_/,"")
+const burl = document.getElementById(val + "_name").innerHTML.replace(/.*<a href=\"/,"").replace(/\".*/,"").replace(/$/,"?intl=nosplash").replace(/(.*\?.*)\?intl=nosplash$/,"$1&intl=nosplash")
+const url = document.getElementById(val + "_name").innerHTML.replace(/.*<a href=\"/,"").replace(/\".*/,"")
+if (document.getElementById(val + "_stock").innerHTML.replace(/\n/g,"").replace(/\r/g,"").replace(/.*<span class=\"retrynum\">\d/,"") == document.getElementById(val + "_stock").innerHTML) {
+  retrynum = "1"}
+else {
+  retrynum = document.getElementById(val + "_stock").innerHTML.replace(/\n/g,"").replace(/\r/g,"").replace(/.*<span class=\"retrynum\">/,"").replace(/<.*/,"")
+}
+  retrynum = Number(retrynum) + 1
+const visiblestock = document.getElementById("stock_" + val)
+const visibleprice = document.getElementById("price_" + val)
+const stock = document.getElementById(val + "_stock")
+const oldstock = document.getElementById(val + "_stock").innerHTML
+const name = document.getElementById(val + "_name")
+const oldname = document.getElementById(val + "_name").innerHTML
+const price = document.getElementById(val + "_price")
+const oldprice = document.getElementById(val + "_price").innerHTML
+const laststock = document.getElementById(val + "_laststock")
+const oldlaststock = document.getElementById(val + "_laststock").innerHTML
+const checked = document.getElementById(val + "_checked")
+const oldchecked = document.getElementById(val + "_checked").outerHTML
+document.getElementById(val + "_name").innerHTML = "<td id=\"" + val + "_name\"><div class=\"loader\"><\/div>&nbsp;&nbsp;Checking<span class=\"hiddenlink\"><a href=\"" + url + "\"<\/a><\/span><\/td>"
+if (typeof table[url.toLowerCase().replace(/^http:\/\//,"").replace(/^https:\/\//,"").replace(/^www\./,"").replace(/\/ref=.*/, "").replace(/\?.*/, "").replace(/\&.*/, "").replace(/$\//, "")] != 'undefined') { foundmsrp = table[url.toLowerCase().replace(/^http:\/\//,"").replace(/^https:\/\//,"").replace(/^www\./,"").replace(/\/ref=.*/, "").replace(/\?.*/, "").replace(/\&.*/, "").replace(/$\//, "")]["col2"]} else { foundmsrp = ""}
+if (foundmsrp == "") {
+checklink = url.toLowerCase().replace(/^http:\/\//,"").replace(/^https:\/\//,"").replace(/^www\./,"").replace(/\/ref=.*/, "").replace(/\?.*/, "").replace(/\&.*/, "").replace(/$\//, "").replace(/^amazon.com(.*)(\/dp\/.*)/, "amazon.com$2")
+}
+else {
+  checklink = url.toLowerCase().replace(/^http:\/\//,"").replace(/^https:\/\//,"").replace(/^www\./,"").replace(/\/ref=.*/, "").replace(/\?.*/, "").replace(/\&.*/, "").replace(/$\//, "")
+}
+if (typeof table[checklink] != 'undefined') { foundmsrp = table[checklink]["col2"]} else { foundmsrp = ""}
+const msrp = foundmsrp
+document.getElementById(val + "_stock").innerHTML = "<td id=\"" + val + "_stock\"><div class=\"loader\"><\/div>&nbsp;&nbsp;Checking<\/td>"
+if (url.toLowerCase().replace(/http(\D{0,1}):\/\//,"").replace(/\/.*/,"").replace(/.*microsoft\.com.*/,"microsoft") == "microsoft") {
+site = Microsoft(val)  }
+if (url.toLowerCase().replace(/http(\D{0,1}):\/\//,"").replace(/\/.*/,"").replace(/.*direct\.playstation\.com.*/,"playstation") == "playstation") {
+site = Playstation(val)  }
+if (url.toLowerCase().replace(/http(\D{0,1}):\/\//,"").replace(/\/.*/,"").replace(/.*amazon.*/,"amazon") == "amazon") {
+site = Amazon(val)  }
+if (url.toLowerCase().replace(/http(\D{0,1}):\/\//,"").replace(/\/.*/,"").replace(/.*walmart.*/,"walmart") == "walmart") {
+site = Walmart(val)  }
+if (url.toLowerCase().replace(/http(\D{0,1}):\/\//,"").replace(/\/.*/,"").replace(/.*newegg.*/,"newegg") == "newegg") {
+site = Newegg(val)  }
+if (url.toLowerCase().replace(/http(\D{0,1}):\/\//,"").replace(/\/.*/,"").replace(/.*bestbuy.*/,"bestbuy") == "bestbuy") {
+site = BestBuy(val)  }
+if (url.toLowerCase().replace(/http(\D{0,1}):\/\//,"").replace(/\/.*/,"").replace(/.*gamestop.*/,"gamestop") == "gamestop") {
+site = GameStop(val)  }
+
+function Amazon(myid) {
+fetch(cors2 + "/" + url)
+  .then((response) => response.text())
+  .then(function(html) {
+    var parser = new DOMParser();
+    var doc = parser.parseFromString(html, "text/html");
+    if (doc.querySelector('h4') != null) {
+   captcha = doc.querySelector('h4').innerHTML.replace(/Enter the characters you see below/,"yes")
+  }
+  else {
+    captcha = "no"
+    }
+    if (doc.getElementById('title') != null) {
+      name.innerHTML = doc.querySelector('title').innerHTML.replace(/(.*)/,"<td id=\"" + val + "_name\"><a href=\"" + url + "\" target=\"_blank\" rel=\"noopener\">$1</a></td>")
+   checked.innerHTML = "now";
+   document.getElementById(myid + "_timestamp").innerHTML = new Date() + "_LCHCK_" + myid;
+  }
+  else {
+    name.innerHTML = oldname.replace(/_stock\">N\/A<\/td>/,"_stock\">Failed to load data<\/td>").replace(/<div class=\"initloader.*<\/div>&nbsp;&nbsp;Checking/,"N/A")
+    }
+    if (doc.getElementById('availability') != null) {
+mystock = doc.getElementById('availability').innerHTML.replace(/\n/g,"").replace(/\r/g,"").replace(/\n/g,"").replace(/\r/g,"").replace(/.*(O|o)ut (O|o)f (S|tock).*/,"<strong style=\"color:red\">Out of stock</strong>").replace(/<\/span>.*/,"").replace(/.*>/,"").replace(/^$/,"").replace(/^In (S|s)tock\.$/,"<strong style=\"color:green\">In stock</strong>").replace(/^In stock on (.*)\.$/,"<strong style=\"color:orange\">In stock on $1</strong>").replace(/^Available to ship in (.*)\.$/,"<strong style=\"color:green\">Available to ship in $1</strong>").replace(/^Currently unavailable.*/,"<strong style=\"color:red\">Out of stock</strong>").replace(/(.*Only .* left in stock.*)/,"<strong style=\"color:green\">$1</strong>").replace(/ - order soon./,"")
+}
+else {
+  mystock = "notavailiable"
+  stock.innerHTML = "N/A<span class=\"retrynum\">" + retrynum + "<\/span>"
+  lastin = ""
+  }
+if ((mystock == "" ) && (doc.getElementById('olp-upd-new') != null)) {
+    mystock = doc.getElementById('olp-upd-new').innerHTML.replace(/\n/g,"").replace(/\r/g,"").replace(/.* (\(\d{1,3}\)) from.*/,"<strong style=\"color:grey\">Multiple offers $1</strong>")
+  }
+  if ((mystock == "" ) && (doc.getElementById('olp-upd-new-used') != null)) {
+    mystock = doc.getElementById('olp-upd-new-used').innerHTML.replace(/\n/g,"").replace(/\r/g,"").replace(/.* (\(\d{1,3}\)) from.*/,"<strong style=\"color:green\">Multiple offers $1</strong>")
+  }
+if (mystock != "notavailiable") {
+      stock.innerHTML = mystock.replace(/(.*)/,"<td id=\"" + val + "_stock\">$1<\/td>")
+      lastin = ("delmepls" + mystock).replace(/.*color\:green.*/,"success").replace(/.*color\:grey.*/,"multiple").replace(/.*delmepls.*/,"")
+    }
+    if (mystock.replace(/color:green/,"") != mystock) {
+      visiblestock.innerHTML = visiblestock.innerHTML.replace(/externalLink\">.*/,"externalLink\">In Stock</a>")
+    } else {
+      visiblestock.innerHTML = visiblestock.innerHTML.replace(/externalLink\">.*/,"externalLink\">Sold Out</a>")
+    }
+
+
+if ((lastin != "success") && (lastin != "multiple") && (laststock.innerHTML.replace(/laststamp/,"") != laststock.innerHTML)) {
+  lastdate = new Date(laststock.innerHTML.replace(/.*\"laststamp\">/,"").replace(/<\/span>.*/,""))
+  diffMs = (new Date() - lastdate);
+  diffDays = Math.floor(diffMs / 86400000) + " days, "; if (diffDays == "0 days, ") {diffDays = ""}if (diffDays == "1 days, ") {diffDays = "1 day, "}; var diffHrs = Math.floor((diffMs % 86400000) / 3600000) + " hours, "; if (diffHrs == "0 hours, ") {diffHrs = ""} if (diffHrs == "1 hours, ") {diffHrs = "1 hour, "}; var diffMins = Math.round(((diffMs % 86400000) % 3600000) / 60000) + " minutes ago"; if (diffMins == "0 minutes ago") {diffMins = ""} if (diffMins == "1 minutes ago") {diffMins = "1 minute ago"}; datediff = diffDays + diffHrs + diffMins; if (diffMs < 60060) {datediff = "now"}; if (diffMs > 600000000000) {datediff = "never on my watch"};
+  laststock.innerHTML = datediff + "<span class=\"laststamp\">" + lastdate + "<\/span>"
+}
+if (lastin == "success") {
+      laststock.innerHTML = "now<span class=\"laststamp\">" + new Date() + "<\/span>"
+    }
+ if (lastin == "multiple") {
+      laststock.innerHTML = "I'm not sure (multiple offers)"
+    }
+if (doc.getElementById('priceblock_ourprice') != null) {
+  myprice = doc.getElementById('priceblock_ourprice').innerHTML.replace(/\n/g,"").replace(/\r/g,"").replace(/<\/span>.*/,"").replace(/.*>/,"")
+                }
+                else {
+                  myprice = ""
+                  }
+if ((doc.getElementById('priceblock_ourprice') == null) && (doc.getElementById('price') != null)){
+  myprice = doc.getElementById('price').innerHTML.replace(/\n/g,"").replace(/\r/g,"").replace(/<\/span>.*/,"").replace(/.*>/,"")
+                } 
+if ((doc.getElementById('priceblock_ourprice') == null) && (doc.getElementById('price') == null) && (doc.getElementsByClassName("a-size-base a-color-price offer-price a-text-normal")[0] != null)){
+  myprice = doc.getElementsByClassName("a-size-base a-color-price offer-price a-text-normal")[0].innerHTML.replace(/\n/g,"").replace(/\r/g,"").replace(/<\/span>.*/,"").replace(/.*>/,"")
+} 
+if (doc.getElementById('priceblock_pospromoprice') != null) {
+  myprice = doc.getElementById('priceblock_pospromoprice').innerHTML.replace(/\n/g,"").replace(/\r/g,"").replace(/<\/span>.*/,"").replace(/.*>/,"")
+                }
+
+                usedandnew = "no"
+if ((doc.getElementById('olp-upd-new-used') != null) && (myprice == "")) {
+    myprice = doc.getElementById('olp-upd-new-used').innerHTML.replace(/\n/g,"").replace(/\r/g,"").replace(/^/,"dlmpls").replace(/.*a-size-base a-color-price\">/,"").replace(/<\/span>.*/,"").replace(/.*>/,"").replace(/.*dlmpls/,"")
+usedandnew = "yes"
+                                }                
+if (myprice.replace(/\d/,"") != myprice) {
+  document.getElementById("price_" + myid).innerHTML = document.getElementById("price_" + myid).innerHTML.replace(/externalLink\">.*/,"externalLink\">$" + Math.round((myprice.replace(/(\d),(\d)/,"$1$2").replace(/\,.*/,"")).match(/[0-9]*\.?[0-9]/)) + "</a>")
+}
+if ((myprice != "") && (msrp != "") && ((Number(myprice.replace(/\$/g,""))) != "0")){
+  var prcDiff=((Number(msrp))-(Number(myprice.replace(/\$/g,""))))/(Number(msrp))*100.0;
+      }
+      else {
+        prcDiff = "0"
+      }
+      if (prcDiff < "-5") {
+        myprice = "<font style=\"color:red\">" + myprice + " (MSRP: $" + msrp + ")</font>"
+        }
+        if (doc.getElementById('merchant-info') != null){
+          thirdparty = doc.getElementById('merchant-info').innerHTML.replace(/\n/g,"").replace(/\r/g,"").replace(/.*Ships from and sold by Amazon.*/,"")}
+          else {
+            thirdparty = ""
+          }
+          if ((myprice.replace(/color/,"") == myprice) && (thirdparty != "") && (myprice != "")) {
+            myprice = "<font style=\"color:orange\">" + myprice + "</font>"     
+          }
+        if (myprice != ""){
+          price.innerHTML = myprice;
+                } 
+        if ((captcha == "yes") && (retrynum < 190)){
+        var ref =  refreshentry(val)
+     }    
+     if ((captcha == "yes") && (retrynum == 190)){
+      stock.innerHTML = "Failed to fetch data because Amazon doesn't believe I'm human :("
+      checked.innerHTML = checked.innerHTML.replace(/\"timestamp\">Sat Jan 01 2000 12\:00\:00 GMT\+0300 \(Moscow Standard Time\)/,"replacemelater").replace(/\"timestamp\">.*_LCHCK_/,"\"timestamp\">" + new Date() + "_LCHCK_").replace(/replacemelater/,"\"timestamp\">Sat Jan 01 1990 12\:00\:00 GMT\+0300 \(Moscow Standard Time\)")
+   }   
+   if ((captcha != "yes") && (retrynum == 190)){
+    stock.innerHTML = "Exceeded retry limit"
+    checked.innerHTML = checked.innerHTML.replace(/\"timestamp\">Sat Jan 01 2000 12\:00\:00 GMT\+0300 \(Moscow Standard Time\)/,"replacemelater").replace(/\"timestamp\">.*_LCHCK_/,"\"timestamp\">" + new Date() + "_LCHCK_").replace(/replacemelater/,"\"timestamp\">Sat Jan 01 1990 12\:00\:00 GMT\+0300 \(Moscow Standard Time\)")
+ }  
+   if ((captcha != "yes") && (doc.getElementById('title') != null)){
+    save = savedata()
+ }     
+})}
+
+function Walmart(myid) {
+
+fetch(cors2 + "/" + url)
+    .then((response) => response.text())
+    .then(function(html) {
+      var parser = new DOMParser();
+      var doc = parser.parseFromString(html, "text/html");
+      if (doc.querySelector('h4') != null) {
+     captcha = doc.querySelector('h4').innerHTML.replace(/Enter the characters you see below/,"yes")
+    }
+    else {
+      captcha = "no"
+      }
+      if (doc.getElementsByTagName("title")[0] != null) {
+        name.innerHTML = doc.querySelector('title').innerHTML.replace(/(.*)/,"<td id=\"" + val + "_name\"><a href=\"" + url + "\" target=\"_blank\" rel=\"noopener\">$1</a></td>")
+    checked.innerHTML = "now";
+    document.getElementById(myid + "_timestamp").innerHTML = new Date() + "_LCHCK_" + myid;
+    }
+    else {
+      name.innerHTML = oldname.replace(/_stock\">N\/A<\/td>/,"_stock\">Failed to load data<\/td>").replace(/<div class=\"initloader.*<\/div>&nbsp;&nbsp;Checking/,"N/A")
+      }
+      if (doc.getElementById('price') != null){
+myprice = doc.getElementById('price').innerHTML.replace(/\n/g,"").replace(/\r/g,"").replace(/<\/span>.*/,"").replace(/.*>/,"")
+      }
+      else {
+      myprice = ""
+    }
+    if (myprice.replace(/\d/,"") != myprice) {
+      document.getElementById("price_" + myid).innerHTML = document.getElementById("price_" + myid).innerHTML.replace(/externalLink\">.*/,"externalLink\">$" + Math.round((myprice.replace(/(\d),(\d)/,"$1$2").replace(/\,.*/,"")).match(/[0-9]*\.?[0-9]/)) + "</a>")
+    }
+if ((myprice != "") && (msrp != "") && ((Number(myprice.replace(/\$/g,""))) != "0")){
+  var prcDiff=((Number(msrp))-(Number(myprice.replace(/\$/g,""))))/(Number(msrp))*100.0;
+      }
+      else {
+        prcDiff = "0"
+      }
+      if (prcDiff < "-5") {
+        myprice = "<font style=\"color:red\">" + myprice + " (MSRP: $" + msrp + ")</font>"
+        }
+                      var xpath = "//script[contains(text(),'urgentQuantity\"\:') and not(contains(text(),'urgentQuantity\"\:null'))]";
+                           var matchingElement = doc.evaluate(xpath, doc, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
+                           if (matchingElement != null) {
+                            urge = matchingElement.textContent.replace(/.*urgentQuantity\"\:/,"").replace(/\,.*/,"").replace(/(.*)/, " (only $1 left)") }
+                            else {
+                              urge = ""
+                              } 
+                              var xpath2 = "//script[contains(text(),'urgentQuantity\"\:')]";
+                              var matchingElement2 = doc.evaluate(xpath2, doc, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
+                              if (matchingElement2 != null) {
+                               seller = matchingElement2.textContent.replace(/.*urgentQuantity\"\:/,"") }
+                               else {
+                                 seller = ""
+                                 }                           
+ if ((seller.replace(/\"\,\"showSoldBy\".*/,"") != seller) && (seller.replace(/\"\,\"showSoldBy\".*/,"").replace(/.*sellerDisplayName\"\:\"/,"") != seller.replace(/\"\,\"showSoldBy\".*/,""))) {
+   seller = seller.replace(/showSoldBy\".*/,"").replace(/.*sellerDisplayName\"\:\"/," \(sold by ").replace(/\"\,\".*/,"\)")
+ }
+   else {
+    seller = ""
+    }
+    if ((myprice.replace(/color/,"") == myprice) && (seller.replace(/sold by/,"") != seller) && (seller.replace(/by walmart/i,"") == seller) && (myprice != "")) {
+      myprice = "<font style=\"color:orange\">" + myprice + "</font>"     
+    }
+    if (myprice != ""){
+      price.innerHTML = myprice;
+      mystock = "In stock"
+            } 
+            else {``
+              mystock = "notavailiable"
+              stock.innerHTML = "N/A<span class=\"retrynum\">" + retrynum + "<\/span>"
+              lastin = ""
+              }
+                    var xpath = "//script[contains(text(),'availabilityStatus\":\"IN_STOCK\"')]";
+                    var matchingElement = doc.evaluate(xpath, doc, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
+                    if ((matchingElement == null) && (myprice != "")){
+                      mystock = "Out of stock"
+                    }
+                    if (doc.getElementsByClassName("display-block-xs font-bold")[0] != null) {
+                      outofst = doc.getElementsByClassName("display-block-xs font-bold")[0].innerHTML }
+                      else {
+                        outofst = ""
+                        }
+                        if (doc.getElementsByClassName("copy-small display-block-xs font-bold u-textBlack")[0] != null) {
+                          preordercheck = doc.getElementsByClassName("copy-small display-block-xs font-bold u-textBlack")[0].innerHTML }
+                          else {
+                            preordercheck = ""
+                            }
+                        if (outofst == "Out of stock") {
+                          mystock = "Out of stock" }
+                          if ((preordercheck == "Preorder available") || (preordercheck == "Preorder availiable")) {
+                            mystock = "Preorder availiable" }
+
+if (mystock != "notavailiable") {
+        mystock = (mystock + urge).replace(/^(In (S|s)tock.*)/,"<strong style=\"color:green\">$1" + seller + "</strong>").replace(/.*Out of stock.*/,"<strong style=\"color:red\">Out of stock</strong>").replace(/.*Preorder availiable.*/,"<strong style=\"color:blue\">Preorder availiable</strong>")
+        stock.innerHTML = mystock
+        lastin = ("delmepls" + mystock).replace(/.*color\:green.*/,"success").replace(/.*color\:grey.*/,"multiple").replace(/.*delmepls.*/,"")
+}
+if (mystock.replace(/color:green/,"") != mystock) {
+  visiblestock.innerHTML = visiblestock.innerHTML.replace(/externalLink\">.*/,"externalLink\">In Stock</a>")
+} else {
+  visiblestock.innerHTML = visiblestock.innerHTML.replace(/externalLink\">.*/,"externalLink\">Sold Out</a>")
+}
+  if ((lastin != "success") && (lastin != "multiple") && (laststock.innerHTML.replace(/laststamp/,"") != laststock.innerHTML)) {
+    lastdate = new Date(laststock.innerHTML.replace(/.*\"laststamp\">/,"").replace(/<\/span>.*/,""))
+    diffMs = (new Date() - lastdate);
+    diffDays = Math.floor(diffMs / 86400000) + " days, "; if (diffDays == "0 days, ") {diffDays = ""}if (diffDays == "1 days, ") {diffDays = "1 day, "}; var diffHrs = Math.floor((diffMs % 86400000) / 3600000) + " hours, "; if (diffHrs == "0 hours, ") {diffHrs = ""} if (diffHrs == "1 hours, ") {diffHrs = "1 hour, "}; var diffMins = Math.round(((diffMs % 86400000) % 3600000) / 60000) + " minutes ago"; if (diffMins == "0 minutes ago") {diffMins = ""} if (diffMins == "1 minutes ago") {diffMins = "1 minute ago"}; datediff = diffDays + diffHrs + diffMins; if (diffMs < 60060) {datediff = "now"}; if (diffMs > 600000000000) {datediff = "never on my watch"};
+    laststock.innerHTML = datediff + "<span class=\"laststamp\">" + lastdate + "<\/span>"
+  }
+  if (lastin == "success") {
+        laststock.innerHTML = "now<span class=\"laststamp\">" + new Date() + "<\/span>"
+      }
+   if (lastin == "multiple") {
+        laststock.innerHTML = "I'm not sure (multiple offers)"
+      } 
+     if (doc.getElementsByTagName("title")[0] != null){
+      save = savedata()
+      
+   }     
+   if ((retrynum == 50)){
+    stock.innerHTML = "Exceeded retry limit"
+    checked.innerHTML = checked.innerHTML.replace(/\"timestamp\">Sat Jan 01 2000 12\:00\:00 GMT\+0300 \(Moscow Standard Time\)/,"replacemelater").replace(/\"timestamp\">.*_LCHCK_/,"\"timestamp\">" + new Date() + "_LCHCK_").replace(/replacemelater/,"\"timestamp\">Sat Jan 01 1990 12\:00\:00 GMT\+0300 \(Moscow Standard Time\)")
+ } 
+
+  })}
+
+function Newegg(myid) {
+
+fetch(cors2 + "/" + url)
+
+
+    .then((response) => response.text())
+    .then(function(html) {
+      var parser = new DOMParser();
+      var doc = parser.parseFromString(html, "text/html");
+      if (doc.getElementsByTagName("title")[0] != null) {
+        newtitle = doc.querySelector('title').innerHTML
+          }
+          if ((doc.getElementsByTagName("title")[0] != null) && (newtitle != "Are you a human?")){
+        name.innerHTML = doc.querySelector('title').innerHTML.replace(/(.*)/,"<td id=\"" + val + "_name\"><a href=\"" + url + "\" target=\"_blank\" rel=\"noopener\">$1</a></td>")
+      checked.innerHTML = "now";
+      document.getElementById(myid + "_timestamp").innerHTML = new Date() + "_LCHCK_" + myid;
+    }
+    if ((doc.getElementsByTagName("title")[0] != null) && (newtitle == "Are you a human?")) {
+      captcha = "yes"
+     }
+     else {
+       captcha = "no"
+       }
+       if (doc.getElementsByTagName("title")[0] == null){
+      name.innerHTML = oldname.replace(/_stock\">N\/A<\/td>/,"_stock\">Failed to load data<\/td>").replace(/<div class=\"initloader.*<\/div>&nbsp;&nbsp;Checking/,"N/A")
+      }
+      var xpath = "//script[contains(text(),'utag_data')]";
+      var matchingElement = doc.evaluate(xpath, doc, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
+      if (matchingElement != null) {
+       utag  = matchingElement.textContent.replace(/\n/g,"").replace(/\r/g,"")
+      }
+else {
+  utag = ""
+}
+if (utag.replace(/.*product_instock\:\[/,"") != utag) {      
+   mystock =    utag.replace(/.*product_instock\:\[/,"").replace(/\].*/,"").replace(/.*1.*/,"In stock").replace(/.*0.*/,"Out of stock")
+        }
+       else {
+                mystock = "notavailiable"
+                stock.innerHTML = "N/A<span class=\"retrynum\">" + retrynum + "<\/span>"
+                lastin = ""
+                }                        
+if (mystock != "notavailiable") {
+        mystock = mystock.replace(/^(In (S|s)tock.*)/,"<strong style=\"color:green\">$1</strong>").replace(/.*Out of stock.*/,"<strong style=\"color:red\">Out of stock</strong>")
+        stock.innerHTML = mystock
+        lastin = ("delmepls" + mystock).replace(/.*color\:green.*/,"success").replace(/.*color\:grey.*/,"multiple").replace(/.*delmepls.*/,"")
+}
+if (mystock.replace(/color:green/,"") != mystock) {
+  visiblestock.innerHTML = visiblestock.innerHTML.replace(/externalLink\">.*/,"externalLink\">In Stock</a>")
+} else {
+  visiblestock.innerHTML = visiblestock.innerHTML.replace(/externalLink\">.*/,"externalLink\">Sold Out</a>")
+}
+if (utag.replace(/.*site_currency\:\[/,"") != utag) {      
+  mycur =    utag.replace(/.*site_currency\:\[/,"").replace(/\].*/,"").replace(/.*USD*/,"\$")
+       }
+      else {
+mycur = "$"               }  
+    myprice = ""
+               if (utag.replace(/.*product_sale_price\:\[/,"") != utag) {   
+                myprice =    utag.replace(/.*product_sale_price\:\[/,"").replace(/\].*/,"").replace(/\'/g,"").replace(/^/,"prc_").replace(/prc_(\d)/,mycur + " $1").replace(/ /,"").replace(/prc_.*/,"") 
+                     }
+                     if ((myprice != "") && (msrp != "") && ((Number(myprice.replace(/\$/g,""))) != "0")){
+                      var prcDiff=((Number(msrp))-(Number(myprice.replace(/\$/g,""))))/(Number(msrp))*100.0;
+                          }
+                          else {
+                            prcDiff = "0"
+                          }
+                          if (prcDiff < "-5") {
+                            myprice = "<font style=\"color:red\">" + myprice + " (MSRP: $" + msrp + ")</font>"
+                            }
+
+if (myprice != "") {
+  price.innerHTML = myprice
+}
+if (myprice.replace(/\d/,"") != myprice) {
+  document.getElementById("price_" + myid).innerHTML = document.getElementById("price_" + myid).innerHTML.replace(/externalLink\">.*/,"externalLink\">$" + Math.round((myprice.replace(/(\d),(\d)/,"$1$2").replace(/\,.*/,"")).match(/[0-9]*\.?[0-9]/)) + "</a>")
+}
+  if ((lastin != "success") && (lastin != "multiple") && (laststock.innerHTML.replace(/laststamp/,"") != laststock.innerHTML)) {
+    lastdate = new Date(laststock.innerHTML.replace(/.*\"laststamp\">/,"").replace(/<\/span>.*/,""))
+    diffMs = (new Date() - lastdate);
+    diffDays = Math.floor(diffMs / 86400000) + " days, "; if (diffDays == "0 days, ") {diffDays = ""}if (diffDays == "1 days, ") {diffDays = "1 day, "}; var diffHrs = Math.floor((diffMs % 86400000) / 3600000) + " hours, "; if (diffHrs == "0 hours, ") {diffHrs = ""} if (diffHrs == "1 hours, ") {diffHrs = "1 hour, "}; var diffMins = Math.round(((diffMs % 86400000) % 3600000) / 60000) + " minutes ago"; if (diffMins == "0 minutes ago") {diffMins = ""} if (diffMins == "1 minutes ago") {diffMins = "1 minute ago"}; datediff = diffDays + diffHrs + diffMins; if (diffMs < 60060) {datediff = "now"}; if (diffMs > 600000000000) {datediff = "never on my watch"};
+    laststock.innerHTML = datediff + "<span class=\"laststamp\">" + lastdate + "<\/span>"
+  }
+  if (lastin == "success") {
+        laststock.innerHTML = "now<span class=\"laststamp\">" + new Date() + "<\/span>"
+      }
+   if (lastin == "multiple") {
+        laststock.innerHTML = "I'm not sure (multiple offers)"
+      } 
+
+   if ((captcha == "yes") && (retrynum < 80)){
+    var ref =  refreshentry(val)
+ }    
+ if ((captcha == "yes") && (retrynum == 80)){
+  stock.innerHTML = "Failed to fetch data because Newegg doesn't believe I'm human :("
+  name.innerHTML = doc.querySelector('title').innerHTML.replace(/(.*)/,"<td id=\"" + val + "_name\"><a href=\"" + url + "\" target=\"_blank\" rel=\"noopener\">" + url + "</a></td>")
+  checked.innerHTML = checked.innerHTML.replace(/\"timestamp\">Sat Jan 01 2000 12\:00\:00 GMT\+0300 \(Moscow Standard Time\)/,"replacemelater").replace(/\"timestamp\">.*_LCHCK_/,"\"timestamp\">" + new Date() + "_LCHCK_").replace(/replacemelater/,"\"timestamp\">Sat Jan 01 1990 12\:00\:00 GMT\+0300 \(Moscow Standard Time\)")
+  save = savedata()
+}   
+if ((captcha != "yes") && (doc.getElementsByTagName("title")[0] != null)){
+ save = savedata()
+}
+if ((captcha != "yes") && (retrynum == 80)){
+  stock.innerHTML = "Exceeded retry limit"
+  checked.innerHTML = checked.innerHTML.replace(/\"timestamp\">Sat Jan 01 2000 12\:00\:00 GMT\+0300 \(Moscow Standard Time\)/,"replacemelater").replace(/\"timestamp\">.*_LCHCK_/,"\"timestamp\">" + new Date() + "_LCHCK_").replace(/replacemelater/,"\"timestamp\">Sat Jan 01 1990 12\:00\:00 GMT\+0300 \(Moscow Standard Time\)")
+}          
+  })}
+function BestBuy(myid) {
+
+fetch(cors2 + "/" + burl)
+    .then((response) => response.text())
+    .then(function(html) {
+      var parser = new DOMParser();
+      var doc = parser.parseFromString(html, "text/html");
+      if (doc.querySelector('h4') != null) {
+     captcha = doc.querySelector('h4').innerHTML.replace(/Enter the characters you see below/,"yes")
+    }
+    else {
+      captcha = "no"
+      }
+      if (doc.getElementsByTagName("title")[0] != null) {
+        name.innerHTML = doc.querySelector('title').innerHTML.replace(/(.*)/,"<td id=\"" + val + "_name\"><a href=\"" + url + "\" target=\"_blank\" rel=\"noopener\">$1</a></td>")
+    checked.innerHTML = "now";
+    document.getElementById(myid + "_timestamp").innerHTML = new Date() + "_LCHCK_" + myid;
+    }
+    else {
+      name.innerHTML = oldname.replace(/_stock\">N\/A<\/td>/,"_stock\">Failed to load data<\/td>").replace(/<div class=\"initloader.*<\/div>&nbsp;&nbsp;Checking/,"N/A")
+      }
+      mystock = "Out of stock"
+if (doc.getElementsByClassName("fulfillment-add-to-cart-button")[0] != null) {
+  mystock = doc.getElementsByClassName("fulfillment-add-to-cart-button")[0].innerHTML.replace(/^/,"dltmpls").replace(/.*add to cart.*/i,"In stock").replace(/dltmpls.*/i,"Out of stock") }
+  else {
+    mystock = "notavailiable"
+    stock.innerHTML = "N/A<span class=\"retrynum\">" + retrynum + "<\/span>"
+    lastin = ""
+    }
+if (mystock != "notavailiable") {
+        mystock = mystock.replace(/^(In (S|s)tock.*)/,"<strong style=\"color:green\">$1</strong>").replace(/.*Out of stock.*/,"<strong style=\"color:red\">Out of stock</strong>")
+        stock.innerHTML = mystock
+        lastin = ("delmepls" + mystock).replace(/.*color\:green.*/,"success").replace(/.*color\:grey.*/,"multiple").replace(/.*delmepls.*/,"")
+}
+if (mystock.replace(/color:green/,"") != mystock) {
+  visiblestock.innerHTML = visiblestock.innerHTML.replace(/externalLink\">.*/,"externalLink\">In Stock</a>")
+} else {
+  visiblestock.innerHTML = visiblestock.innerHTML.replace(/externalLink\">.*/,"externalLink\">Sold Out</a>")
+}
+if (doc.getElementsByClassName("priceView-hero-price priceView-customer-price")[0] != null) {
+  myprice = doc.getElementsByClassName("priceView-hero-price priceView-customer-price")[0].innerHTML.replace(/\n/g,"").replace(/\r/g,"").replace(/<\/span>.*/,"").replace(/.*>/,"") }
+  else {
+    myprice = ""
+    }
+    if ((myprice != "") && (msrp != "") && ((Number(myprice.replace(/\$/g,""))) != "0")){
+      var prcDiff=((Number(msrp))-(Number(myprice.replace(/\$/g,""))))/(Number(msrp))*100.0;
+          }
+          else {
+            prcDiff = "0"
+          }
+          if (prcDiff < "-5") {
+            myprice = "<font style=\"color:red\">" + myprice + " (MSRP: $" + msrp + ")</font>"
+            }
+if (myprice != "") {
+  price.innerHTML = myprice
+}
+if (myprice.replace(/\d/,"") != myprice) {
+  document.getElementById("price_" + myid).innerHTML = document.getElementById("price_" + myid).innerHTML.replace(/externalLink\">.*/,"externalLink\">$" + Math.round((myprice.replace(/(\d),(\d)/,"$1$2").replace(/\,.*/,"")).match(/[0-9]*\.?[0-9]/)) + "</a>")
+}
+  if ((lastin != "success") && (lastin != "multiple") && (laststock.innerHTML.replace(/laststamp/,"") != laststock.innerHTML)) {
+    lastdate = new Date(laststock.innerHTML.replace(/.*\"laststamp\">/,"").replace(/<\/span>.*/,""))
+    diffMs = (new Date() - lastdate);
+    diffDays = Math.floor(diffMs / 86400000) + " days, "; if (diffDays == "0 days, ") {diffDays = ""}if (diffDays == "1 days, ") {diffDays = "1 day, "}; var diffHrs = Math.floor((diffMs % 86400000) / 3600000) + " hours, "; if (diffHrs == "0 hours, ") {diffHrs = ""} if (diffHrs == "1 hours, ") {diffHrs = "1 hour, "}; var diffMins = Math.round(((diffMs % 86400000) % 3600000) / 60000) + " minutes ago"; if (diffMins == "0 minutes ago") {diffMins = ""} if (diffMins == "1 minutes ago") {diffMins = "1 minute ago"}; datediff = diffDays + diffHrs + diffMins; if (diffMs < 60060) {datediff = "now"}; if (diffMs > 600000000000) {datediff = "never on my watch"};
+    laststock.innerHTML = datediff + "<span class=\"laststamp\">" + lastdate + "<\/span>"
+  }
+  if (lastin == "success") {
+        laststock.innerHTML = "now<span class=\"laststamp\">" + new Date() + "<\/span>"
+      }
+   if (lastin == "multiple") {
+        laststock.innerHTML = "I'm not sure (multiple offers)"
+      } 
+     if (doc.getElementsByTagName("title")[0] != null){
+    save = savedata()
+   }
+   if ((retrynum == 50)){
+    stock.innerHTML = "Exceeded retry limit"
+    checked.innerHTML = checked.innerHTML.replace(/\"timestamp\">Sat Jan 01 2000 12\:00\:00 GMT\+0300 \(Moscow Standard Time\)/,"replacemelater").replace(/\"timestamp\">.*_LCHCK_/,"\"timestamp\">" + new Date() + "_LCHCK_").replace(/replacemelater/,"\"timestamp\">Sat Jan 01 1990 12\:00\:00 GMT\+0300 \(Moscow Standard Time\)")
+ }      
+  })}  
+
+  function GameStop(myid) {
+
+fetch(cors1 + "/" + url)
+      .then((response) => response.text())
+      .then(function(html) {
+        var parser = new DOMParser();
+        var doc = parser.parseFromString(html, "text/html");
+        if (doc.querySelector('h4') != null) {
+       captcha = doc.querySelector('h4').innerHTML.replace(/Enter the characters you see below/,"yes")
+      }
+      else {
+        captcha = "no"
+        }
+        if (doc.getElementsByTagName("title")[0] != null) {
+          name.innerHTML = doc.querySelector('title').innerHTML.replace(/(.*)/,"<td id=\"" + val + "_name\"><a href=\"" + url + "\" target=\"_blank\" rel=\"noopener\">$1</a></td>")
+        checked.innerHTML = "now";
+        document.getElementById(myid + "_timestamp").innerHTML = new Date() + "_LCHCK_" + myid;
+      }
+      else {
+        name.innerHTML = oldname.replace(/_stock\">N\/A<\/td>/,"_stock\">Failed to load data<\/td>").replace(/<div class=\"initloader.*<\/div>&nbsp;&nbsp;Checking/,"N/A")
+        }
+                  if (doc.getElementsByClassName("add-to-cart-buttons tulsa-atcbutton-toggle")[0] != null) {
+                    mystock = doc.getElementsByClassName("add-to-cart-buttons tulsa-atcbutton-toggle")[0].innerHTML.replace(/\n/g,"").replace(/\r/g,"") }
+                    else {
+                      mystock = "notavailiable"
+                      stock.innerHTML = "N/A<span class=\"retrynum\">" + retrynum + "<\/span>"
+                      lastin = ""
+                      }
+if (mystock.replace(/sellingPrice&quot;:&quot;/,"") != mystock){
+  myprice = mystock.replace(/.*sellingPrice&quot;:&quot;/,"\$").replace(/&quot.*/,"")
+}
+else {
+  myprice = ""
+}
+if ((myprice != "") && (msrp != "") && ((Number(myprice.replace(/\$/g,""))) != "0")){
+  var prcDiff=((Number(msrp))-(Number(myprice.replace(/\$/g,""))))/(Number(msrp))*100.0;
+      }
+      else {
+        prcDiff = "0"
+      }
+      if (prcDiff < "-5") {
+        myprice = "<font style=\"color:red\">" + myprice + " (MSRP: $" + msrp + ")</font>"
+        }
+if (myprice != "") {
+  price.innerHTML = myprice
+}
+if (myprice.replace(/\d/,"") != myprice) {
+  document.getElementById("price_" + myid).innerHTML = document.getElementById("price_" + myid).innerHTML.replace(/externalLink\">.*/,"externalLink\">$" + Math.round((myprice.replace(/(\d),(\d)/,"$1$2").replace(/\,.*/,"")).match(/[0-9]*\.?[0-9]/)) + "</a>")
+}
+if (mystock.replace(/availability&quot;:&quot;Available/,"") != mystock){
+  mystock = "In stock"
+}
+else {
+mystock = "Out of stock"
+}             
+  if (mystock != "notavailiable") {
+          mystock = (mystock).replace(/^(In (S|s)tock.*)/,"<strong style=\"color:green\">$1</strong>").replace(/.*Out of stock.*/,"<strong style=\"color:red\">Out of stock</strong>")
+          stock.innerHTML = mystock
+          lastin = ("delmepls" + mystock).replace(/.*color\:green.*/,"success").replace(/.*color\:grey.*/,"multiple").replace(/.*delmepls.*/,"")
+  }
+  if (mystock.replace(/color:green/,"") != mystock) {
+    visiblestock.innerHTML = visiblestock.innerHTML.replace(/externalLink\">.*/,"externalLink\">In Stock</a>")
+  } else {
+    visiblestock.innerHTML = visiblestock.innerHTML.replace(/externalLink\">.*/,"externalLink\">Sold Out</a>")
+  }
+    if ((lastin != "success") && (lastin != "multiple") && (laststock.innerHTML.replace(/laststamp/,"") != laststock.innerHTML)) {
+      lastdate = new Date(laststock.innerHTML.replace(/.*\"laststamp\">/,"").replace(/<\/span>.*/,""))
+      diffMs = (new Date() - lastdate);
+      diffDays = Math.floor(diffMs / 86400000) + " days, "; if (diffDays == "0 days, ") {diffDays = ""}if (diffDays == "1 days, ") {diffDays = "1 day, "}; var diffHrs = Math.floor((diffMs % 86400000) / 3600000) + " hours, "; if (diffHrs == "0 hours, ") {diffHrs = ""} if (diffHrs == "1 hours, ") {diffHrs = "1 hour, "}; var diffMins = Math.round(((diffMs % 86400000) % 3600000) / 60000) + " minutes ago"; if (diffMins == "0 minutes ago") {diffMins = ""} if (diffMins == "1 minutes ago") {diffMins = "1 minute ago"}; datediff = diffDays + diffHrs + diffMins; if (diffMs < 60060) {datediff = "now"}; if (diffMs > 600000000000) {datediff = "never on my watch"};
+      laststock.innerHTML = datediff + "<span class=\"laststamp\">" + lastdate + "<\/span>"
+    }
+    if (lastin == "success") {
+          laststock.innerHTML = "now<span class=\"laststamp\">" + new Date() + "<\/span>"
+        }
+     if (lastin == "multiple") {
+          laststock.innerHTML = "I'm not sure (multiple offers)"
+        } 
+       if (doc.getElementsByTagName("title")[0] != null){
+        save = savedata()
+
+     }    
+     if ((retrynum == 50)){
+      stock.innerHTML = "Exceeded retry limit"
+      checked.innerHTML = checked.innerHTML.replace(/\"timestamp\">Sat Jan 01 2000 12\:00\:00 GMT\+0300 \(Moscow Standard Time\)/,"replacemelater").replace(/\"timestamp\">.*_LCHCK_/,"\"timestamp\">" + new Date() + "_LCHCK_").replace(/replacemelater/,"\"timestamp\">Sat Jan 01 1990 12\:00\:00 GMT\+0300 \(Moscow Standard Time\)")
+   }   
+    
+    })}
+    function Microsoft(myid) {
+      mystock = ""
+
+fetch(cors1 + "/" + url)
+        .then((response) => response.text())
+        .then(function(html) {
+          var parser = new DOMParser();
+          var doc = parser.parseFromString(html, "text/html");
+          if (doc.getElementsByTagName("title")[0] != null) {
+            name.innerHTML = doc.querySelector('title').innerHTML.replace(/(.*)/,"<td id=\"" + val + "_name\"><a href=\"" + url + "\" target=\"_blank\" rel=\"noopener\">$1</a></td>")
+          checked.innerHTML = "now";
+          document.getElementById(myid + "_timestamp").innerHTML = new Date() + "_LCHCK_" + myid;
+        }
+        else {
+          name.innerHTML = oldname.replace(/_stock\">N\/A<\/td>/,"_stock\">Failed to load data<\/td>").replace(/<div class=\"initloader.*<\/div>&nbsp;&nbsp;Checking/,"N/A")
+          }
+          if (doc.getElementById("productPrice") != null) {
+            myprice = doc.getElementById("productPrice").innerHTML.replace(/\n/g,"").replace(/\r/g,"").replace(/.*ProductPrice_productPrice_StartingFromPrice/,"").replace(/.*Starting from/,"Starting from").replace(/.*ProductPrice_productPrice_PriceContainer/,"").replace(/.*ProductPrice_productPrice_PriceContainer/,"").replace(/.*Current price /,"" ).replace(/\".*/,"").replace(/<.*/,"").replace(/ {2,22}/,"") }
+            else {
+              myprice = ""
+              }
+          var xpath = "//script[contains(text(),'ReactDOM.hydrate(React.createElement(OneRF_DynamicModules.ButtonPanel')]";
+          var matchingElement = doc.evaluate(xpath, doc, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
+          if (matchingElement != null) {
+            msfetch = matchingElement.textContent.replace(/\n/g,"").replace(/\r/g,"").replace(/ReactDOM.hydrate\(React.createElement\(OneRF_DynamicModules.ButtonPanel/,"delallbfrme1").replace(/\"ApiName\":\"IsOutOfStock\"\,\"Params\":/,"delallbfrme2")
+          } else {
+            msfetch = ""
+             }          
+             if ((msfetch.replace(/delallbfrme1/,"") != msfetch) && (msfetch.replace(/delallbfrme2/,"") != msfetch) && (msfetch.replace(/.*delallbfrme1/,"").replace(/.*delallbfrme2/,"").replace(/\}.*/,"").replace(/.*\"\,\"(\w{1,5}\-\d{1,7})\"\,\".*/,"$1") != msfetch.replace(/.*delallbfrme1/,"").replace(/.*delallbfrme2/,"").replace(/\}.*/,""))) {
+             msfetch = msfetch.replace(/.*delallbfrme1/,"").replace(/.*delallbfrme2/,"").replace(/\}.*/,"").replace(/.*\"\,\"(\w{1,5}\-\d{1,7})\"\,\".*/,"[\{skuId\: \"$1\"\,\"distributorId\":\"9000000013\"\}\]")
+            } else {
+              msfetch = ""
+               }  
+               if (doc.querySelector("meta[name='ms.prod_id']") != null && doc.querySelector("meta[name='ms.prod_type']") != null){
+                msprodid = doc.querySelector("meta[name='ms.prod_id']").getAttribute("content")
+                msprodtype = doc.querySelector("meta[name='ms.prod_type']").getAttribute("content")
+                } else {
+                  msprodtype = ""
+                   } 
+                   if ((msfetch == "") && (msprodtype == "Bundle")){
+                    function bundle() {
+                      fetch(cors1 + "/" + "/https://www.microsoft.com/en-us/store/build/bundle/" + msprodid)
+                    .then((response) => response.text())
+                    .then(function(html) {
+                      var parser = new DOMParser();
+                      var doc = parser.parseFromString(html, "text/html");
+                      repme = "\"" + msprodid.toLowerCase() + "\""
+if (doc.querySelector("section[data-pid=" + repme + "]") != null) {
+  var nodes = doc.querySelectorAll("section[data-pid=" + repme + "]");
+  var list = [].slice.call(nodes);
+  var skuid = list.map(function(e) { return e.outerHTML; }).join("\n");
+  var skuid = skuid.replace(/\n/g,"").replace(/\r/g,"").replace(/^/,"dlmepls").replace(/.*data-isid=\"/,"").replace(/\".*/,"").replace(/dlmepls.*/,"notavailiable")
+  var skuid = "[\{skuId\: \"" + skuid + "\"\,\"distributorId\":\"9000000013\"\}\]"
+} else {
+  skuid = ""
+   } 
+   function msb() {
+    fetch(cors1 + "/" + cors2 + "/https://inv.mp.microsoft.com/v2.0/inventory/US", {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+    body: skuid
+  })
+  .then((response) => response.text())
+  .then(function(html) {
+    mystock = (html.replace(/^/,"outofstock").replace(/.*\"isProductLaunchFutureLot\":\"True\".*/,"Pre-order").replace(/.*\"onlineOrderAvailable\":\"True\".*/,"In stock").replace(/outofstock.*/,"Out of stock"))
+
+    var mspost = Microsoft2(mystock)
+  })
+  }
+if (skuid != "notavailiable") {
+  var mspost = msb()
+}
+else {
+  mystock = "notavailiable"
+  var mspost = Microsoft2(mystock)
+  }             
+                    })
+                    }
+                    var mspost = bundle()
+                    }                                      
+                    if (msfetch != ""){
+                      function ms() {
+                        fetch(cors1 + "/" + cors2 + "/https://inv.mp.microsoft.com/v2.0/inventory/US", {
+                          method: 'POST',
+                          headers: {
+                            'Content-Type': 'application/json',
+                          },
+                        body: msfetch
+                      })
+                      .then((response) => response.text())
+                      .then(function(html) {
+                        mystock = (html.replace(/^/,"outofstock").replace(/.*\"isProductLaunchFutureLot\":\"True\".*/,"Pre-order").replace(/.*\"onlineOrderAvailable\":\"True\".*/,"In stock").replace(/outofstock.*/,"Out of stock"))
+                        var mspost = Microsoft2(mystock)
+                      })
+                      }
+                      var mspost = ms()
+                                   }
+                                   if ((msfetch == "") && (msprodtype != "Bundle")){
+                                    mystock = "N/A"
+                                    var mspost = Microsoft2(mystock)
+                                   }
+                                   if (myprice.replace(/\d/,"") != myprice) {
+                                    document.getElementById("price_" + myid).innerHTML = document.getElementById("price_" + myid).innerHTML.replace(/externalLink\">.*/,"externalLink\">$" + Math.round((myprice.replace(/(\d),(\d)/,"$1$2").replace(/\,.*/,"")).match(/[0-9]*\.?[0-9]/)) + "</a>")
+                                  }
+                                   if ((myprice != "") && (msrp != "") && ((Number(myprice.replace(/\$/g,""))) != "0")){
+                                    var prcDiff=((Number(msrp))-(Number(myprice.replace(/\$/g,""))))/(Number(msrp))*100.0;
+                                        }
+                                        else {
+                                          prcDiff = "0"
+                                        }
+                                        if (prcDiff < "-5") {
+                                          myprice = "<font style=\"color:red\">" + myprice + " (MSRP: $" + msrp + ")</font>"
+                                          }
+                                   if (myprice != "") {
+    price.innerHTML = myprice
+  }
+     
+})} 
+function Microsoft2(mystock){ 
+    if (mystock != "notavailiable") {
+            mystock = (mystock).replace(/^(In (S|s)tock.*)/,"<strong style=\"color:green\">$1</strong>").replace(/.*Out of stock.*/,"<strong style=\"color:red\">Out of stock</strong>").replace(/.*Pre-order*/,"<strong style=\"color:orange\">Pre-order</strong>")
+            stock.innerHTML = mystock
+            lastin = ("delmepls" + mystock).replace(/.*color\:green.*/,"success").replace(/.*color\:grey.*/,"multiple").replace(/.*delmepls.*/,"")}
+            else {
+              stock.innerHTML = "N/A<span class=\"retrynum\">" + retrynum + "<\/span>"
+              lastin = ""
+              }
+              if (mystock.replace(/color:green/,"") != mystock) {
+                visiblestock.innerHTML = visiblestock.innerHTML.replace(/externalLink\">.*/,"externalLink\">In Stock</a>")
+              } else {
+                visiblestock.innerHTML = visiblestock.innerHTML.replace(/externalLink\">.*/,"externalLink\">Sold Out</a>")
+              }
+    
+      if ((lastin != "success") && (lastin != "multiple") && (laststock.innerHTML.replace(/laststamp/,"") != laststock.innerHTML)) {
+        lastdate = new Date(laststock.innerHTML.replace(/.*\"laststamp\">/,"").replace(/<\/span>.*/,""))
+        diffMs = (new Date() - lastdate);
+        diffDays = Math.floor(diffMs / 86400000) + " days, "; if (diffDays == "0 days, ") {diffDays = ""}if (diffDays == "1 days, ") {diffDays = "1 day, "}; var diffHrs = Math.floor((diffMs % 86400000) / 3600000) + " hours, "; if (diffHrs == "0 hours, ") {diffHrs = ""} if (diffHrs == "1 hours, ") {diffHrs = "1 hour, "}; var diffMins = Math.round(((diffMs % 86400000) % 3600000) / 60000) + " minutes ago"; if (diffMins == "0 minutes ago") {diffMins = ""} if (diffMins == "1 minutes ago") {diffMins = "1 minute ago"}; datediff = diffDays + diffHrs + diffMins; if (diffMs < 60060) {datediff = "now"}; if (diffMs > 600000000000) {datediff = "never on my watch"};
+        laststock.innerHTML = datediff + "<span class=\"laststamp\">" + lastdate + "<\/span>"
+      }
+      if (lastin == "success") {
+            laststock.innerHTML = "now<span class=\"laststamp\">" + new Date() + "<\/span>"
+          }
+       if (lastin == "multiple") {
+            laststock.innerHTML = "I'm not sure (multiple offers)"
+          } 
+          save = savedata()
+          if ((retrynum == 50)){
+            stock.innerHTML = "Exceeded retry limit"
+            checked.innerHTML = checked.innerHTML.replace(/\"timestamp\">Sat Jan 01 2000 12\:00\:00 GMT\+0300 \(Moscow Standard Time\)/,"replacemelater").replace(/\"timestamp\">.*_LCHCK_/,"\"timestamp\">" + new Date() + "_LCHCK_").replace(/replacemelater/,"\"timestamp\">Sat Jan 01 1990 12\:00\:00 GMT\+0300 \(Moscow Standard Time\)")
+         } 
+}
+      function Playstation(myid) {
+        fetch(cors1 + "/" + url)
+          .then((response) => response.text())
+          .then(function(html) {
+            var parser = new DOMParser();
+            var doc = parser.parseFromString(html, "text/html");
+            if (doc.getElementsByTagName("title")[0] != null) {
+              name.innerHTML = doc.querySelector('title').innerHTML.replace(/(.*)/,"<td id=\"" + val + "_name\"><a href=\"" + url + "\" target=\"_blank\" rel=\"noopener\">$1</a></td>");
+            checked.innerHTML = "now";
+            document.getElementById(myid + "_timestamp").innerHTML = new Date() + "_LCHCK_" + myid;
+          }
+          else {
+            name.innerHTML = oldname.replace(/_stock\">N\/A<\/td>/,"_stock\">Failed to load data<\/td>").replace(/<div class=\"initloader.*<\/div>&nbsp;&nbsp;Checking/,"N/A")
+            }
+                      if (doc.getElementsByClassName("price-text js-actual-price")[0] != null) {
+                        myprice = doc.getElementsByClassName("price-text js-actual-price")[0].textContent.replace(/\n/g,"").replace(/\r/g,"").replace(/\t{2,12}/g,"\t").replace(/(\d)\t(\d)/,"$1.$2").replace(/\t/g,"") 
+                      }
+   else {
+      myprice = ""
+    }
+    if (myprice.replace(/\d/,"") != myprice) {
+      document.getElementById("price_" + myid).innerHTML = document.getElementById("price_" + myid).innerHTML.replace(/externalLink\">.*/,"externalLink\">$" + Math.round((myprice.replace(/(\d),(\d)/,"$1$2").replace(/\,.*/,"")).match(/[0-9]*\.?[0-9]/)) + "</a>")
+    }
+    if ((myprice != "") && (msrp != "") && ((Number(myprice.replace(/\$/g,""))) != "0")){
+      var prcDiff=((Number(msrp))-(Number(myprice.replace(/\$/g,""))))/(Number(msrp))*100.0;
+          }
+          else {
+            prcDiff = "0"
+          }
+          if (prcDiff < "-5") {
+            myprice = "<font style=\"color:red\">" + myprice + " (MSRP: $" + msrp + ")</font>"
+            }
+    if (myprice != "") {
+      price.innerHTML = myprice
+    }
+
+
+    if (doc.getElementsByClassName("productHero-component row")[0] != null) {
+      psfetch = doc.getElementsByClassName("productHero-component row")[0].innerHTML.replace(/\n/g,"").replace(/\r/g,"").replace(/\t/g,"") 
+    }
+    else {
+      psfetch = ""
+    }
+if (psfetch.replace(/.*data-product-code=\"/,"") != psfetch) {
+  psfetch = psfetch.replace(/.*data-product-code=\"/,"").replace(/\".*/,"").replace(/^/,"https://api.direct.playstation.com/commercewebservices/ps-direct-us/users/anonymous/products/productList?fields=BASIC&productCodes=")
+  function ps() {
+    fetch(cors1 + "/" + psfetch)
+    .then((response) => response.text())
+  .then(function(html) {
+    var mystock = html.replace(/\n/g,"").replace(/\r/g,"").replace(/\t/g,"").replace(/^/,"delmepls").replace(/.*stockLevelStatus\":\"outOfStock\".*/,"Out of stock").replace(/.*stockLevelStatus\":\"inStock\".*/,"In stock").replace(/.*stockLevelStatus\":\"inStock\"/,"In stock").replace(/.*delmepls.*/,"notavailiable");
+    var pspost = Playstation2(mystock)
+  })
+  }
+  var ps2 = ps()
+}
+else {
+  mystock = "notavailiable"
+  var pspost = Playstation2(mystock)
+}
+ 
+})} 
+
+function Playstation2(mystock){ 
+  if (mystock != "notavailiable") {
+          mystock = (mystock).replace(/^(In (S|s)tock.*)/,"<strong style=\"color:green\">$1</strong>").replace(/.*Out of stock.*/,"<strong style=\"color:red\">Out of stock</strong>")
+          stock.innerHTML = mystock
+          if (mystock.replace(/color:green/,"") != mystock) {
+            visiblestock.innerHTML = visiblestock.innerHTML.replace(/externalLink\">.*/,"externalLink\">In Stock</a>")
+          } else {
+            visiblestock.innerHTML = visiblestock.innerHTML.replace(/externalLink\">.*/,"externalLink\">Sold Out</a>")
+          }
+
+
+          lastin = ("delmepls" + mystock).replace(/.*color\:green.*/,"success").replace(/.*color\:grey.*/,"multiple").replace(/.*delmepls.*/,"")
+  }
+    if ((lastin != "success") && (lastin != "multiple") && (laststock.innerHTML.replace(/laststamp/,"") != laststock.innerHTML)) {
+      lastdate = new Date(laststock.innerHTML.replace(/.*\"laststamp\">/,"").replace(/<\/span>.*/,""))
+      diffMs = (new Date() - lastdate);
+      diffDays = Math.floor(diffMs / 86400000) + " days, "; if (diffDays == "0 days, ") {diffDays = ""}if (diffDays == "1 days, ") {diffDays = "1 day, "}; var diffHrs = Math.floor((diffMs % 86400000) / 3600000) + " hours, "; if (diffHrs == "0 hours, ") {diffHrs = ""} if (diffHrs == "1 hours, ") {diffHrs = "1 hour, "}; var diffMins = Math.round(((diffMs % 86400000) % 3600000) / 60000) + " minutes ago"; if (diffMins == "0 minutes ago") {diffMins = ""} if (diffMins == "1 minutes ago") {diffMins = "1 minute ago"}; datediff = diffDays + diffHrs + diffMins; if (diffMs < 60060) {datediff = "now"}; if (diffMs > 600000000000) {datediff = "never on my watch"};
+      laststock.innerHTML = datediff + "<span class=\"laststamp\">" + lastdate + "<\/span>"
+    }
+    if (lastin == "success") {
+          laststock.innerHTML = "now<span class=\"laststamp\">" + new Date() + "<\/span>"
+        }
+     if (lastin == "multiple") {
+          laststock.innerHTML = "I'm not sure (multiple offers)"
+        } 
+        save = savedata()
+ 
+}
+}
+
+function clearall(){
+document.getElementById('datatable').innerHTML = "";
+save = savedata()
+}
+function recheckpsid(cardid){
+  cardid = cardid.replace (/^refall_/,"")
+  if (document.getElementById(cardid).getElementsByClassName("timestamp")[0] != null) {
+          var countstamp = Array.prototype.slice.call(document.querySelectorAll('.timestamp'));
+          countstamp.forEach(function (span, i) {
+            entryid = document.getElementById(cardid).getElementsByClassName('timestamp')[i].innerHTML.replace(/.*_LCHCK_/,"")
+            timetorecheck = refreshentry(entryid);
+          })   
+          }
+  }
+  function recheckall(){
+    if (document.getElementsByClassName('timestamp')[0] != null) {
+            var countstamp = Array.prototype.slice.call(document.querySelectorAll('.timestamp'));
+            countstamp.forEach(function (span, i) {
+              entryid = document.getElementsByClassName('timestamp')[i].innerHTML.replace(/.*_LCHCK_/,"")
+              timetorecheck = refreshentry(entryid);
+            })   
+            }
+    }
+    function addmsrp(psid){
+  psid = psid.replace(/^msrp_/,"");
+      document.getElementById('myinputIn_' + psid).outerHTML = document.getElementById('myinputIn_' + psid).outerHTML.replace(/Add MSRP value/,"AddMSRPvalue").replace(/(.*)Add new (.*) link to track(.*)/,"$1Add MSRP value for $2$3").replace(/(.*)AddMSRPvalue for (.*)\" rows=\"(.*)/,"$1Add new $2 link to track\" rows =\"$3").replace(/\" rows=\" link to track/," link to track").replace(/AddMSRPvalue/,"Add MSRP value");
+    }
+
+function entrycheck(){
+  document.getElementById('datatable').innerHTML = "";
+  save = savedata()
+
+  }
+
+function delayedrefresh (){
+  fetch('/' + myhost + '/datatable')
+  .then((response) => response.text())
+  .then(function(refreshdata) {
+    refreshdata = refreshdata.replace(/^\"/,"").replace(/\"$/,"").replace(/\\\"/g,"\"");
+    if (document.getElementById('datatable') != null) {
+      document.getElementById('datatable').innerHTML = refreshdata;
+    }})
+}
+function refreshdata () {
+  const delay = ms => new Promise(res => setTimeout(res, ms));
+  const saveme = async () => {
+    await delay(2000);
+    delayedrefresh ()
+  };
+  saveme()
+  setTimeout(refreshdata, 1200000)
+  }
+
+  function delayedsave(){
+    fetch("/", {
+      method: 'POST',
+      headers: {
+        "Content-Type": "text/plain",
+      }
+  ,
+  body: document.getElementById('datatable').innerHTML.replace(/Sat Jan 01 1990 12\:00\:00 GMT\+0300 \(Moscow Standard Time\)/g,"Sat Jan 01 2000 12:00:00 GMT+0300  (Moscow Standard Time)")
+    })
+  .then((response) => response.text())
+    }
+    function savedata () {
+      const delay = ms => new Promise(res => setTimeout(res, ms));
+      const saveme = async () => {
+        await delay(2000);
+        delayedsave ()
+      };
+      saveme()
+      }
+      function autorefreshentry(entryid){
+        if (JSON.parse(window.localStorage.getItem('interval-new')) != null) {
+          oldinterval = JSON.parse(window.localStorage.getItem('interval-new'))
+          }
+           else {
+            oldinterval = "74000000"
+          }
+        if (oldinterval == "200000") {
+          document.getElementById(entryid + '_timestamp').innerHTML = (new Date (Date.now() - 100000)) + "_LCHCK_" + entryid;
+        } else {
+        document.getElementById(entryid + '_timestamp').innerHTML = (new Date (Date.now() - (Math.floor(Math.random() * 120000) + 3300000))) + "_LCHCK_" + entryid;
+        }
+        refreshentry(entryid)
+        }
+
+  function counter()  {
+    if (JSON.parse(window.localStorage.getItem('interval-new')) != null) {
+      oldinterval = JSON.parse(window.localStorage.getItem('interval-new'))
+      }
+       else {
+        oldinterval = "74000000"
+      }
+      if (document.querySelector("#refreshint") != null) {
+        newinterval = document.querySelector("#refreshint").value
+        }
+         else {
+          newinterval = oldinterval
+        }
+      if (oldinterval != newinterval) {
+        window.localStorage.setItem('interval-new', JSON.stringify(newinterval))
+        }
+     if (document.getElementsByClassName('timestamp')[0] != null) {
+      var countstamp = Array.prototype.slice.call(document.querySelectorAll('.timestamp'));
+      countstamp.forEach(function (span, i) {
+        lastdate = new Date(document.getElementsByClassName('timestamp')[i].innerHTML.replace(/.*timestamp\">/,"").replace(/_LCHCK_.*/,""))
+        entryid = document.getElementsByClassName('timestamp')[i].innerHTML.replace(/.*timestamp\">/,"").replace(/.*_LCHCK_/,"")
+        diffMs = (new Date() - lastdate);
+        diffDays = Math.floor(diffMs / 86400000) + " days, "; if (diffDays == "0 days, ") {diffDays = ""}if (diffDays == "1 days, ") {diffDays = "1 day, "}; var diffHrs = Math.floor((diffMs % 86400000) / 3600000) + " hours, "; if (diffHrs == "0 hours, ") {diffHrs = ""} if (diffHrs == "1 hours, ") {diffHrs = "1 hour, "}; var diffMins = Math.round(((diffMs % 86400000) % 3600000) / 60000) + " minutes ago"; if (diffMins == "0 minutes ago") {diffMins = ""} if (diffMins == "1 minutes ago") {diffMins = "1 minute ago"}; datediff = diffDays + diffHrs + diffMins; if (diffMs < 60060) {datediff = "now"}; if (datediff == "1 hour, ") {datediff = "1 hour ago"}; if (diffMs > 600000000000) {datediff = "never"};
+        if (document.getElementById(entryid + "_checked").innerHTML != datediff) {
+        document.getElementById(entryid + "_checked").innerHTML = datediff
+        }
+        if ((diffMs > Number(newinterval)) && (diffMs < 900000000000) && (document.getElementById(entryid + "_checked").innerHTML.replace(/(<div class=\"visloader\">)|(never)/,"") == document.getElementById(entryid + "_checked").innerHTML)) {timetorecheck = autorefreshentry(entryid)};
+      })
+      }
+  setTimeout(counter, 45)
+  }
+  var countme = counter()
+  var refreshme = refreshdata()
+  onBookmarkletClick = function(){
+    let SiteIDIn = document.querySelector("#refreshint").value;
+    alert('This bookmarklet allows you to add any eligible page you\'re currently on to the Stock Tracker list. Drag it onto your bookmarks bar to install.');
+    return false;
+    }
