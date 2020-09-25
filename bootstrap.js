@@ -90,15 +90,6 @@ app.use(bodyParser.text({ type: 'text/plain' })), // for parsing application/jso
             res.send(fs.readFileSync(sendme, 'utf8'));
             return;
         }    
-                if(requestedUrl == 'test.stock'){
-            res.send(fs.readFileSync('stock.table', 'utf8'));
-            return;
-         }                   
-                                    if(requestedUrl == 'test1.stock'){
-            res.set('content-type', 'application/json');                            
-            res.send(fs.readFileSync('stock.table', 'utf8'));
-            return;
-        }
             if(requestedUrl == 'st.nojscript'){
             res.send(fs.readFileSync('st.nojscript', 'utf8'));
             return;
@@ -178,8 +169,10 @@ app.use(bodyParser.text({ type: 'text/plain' })), // for parsing application/jso
         }
         
         if(requestedUrl === 'post'){
-            var processed = req.body;
-                        fs.writeFile('stock.table', processed, function(err) {
+            var processed = req.body.replace(/.*init_dlmpls_/,'');
+            var writeme = req.body.replace(/init_dlmpls_.*/,'');
+
+                        fs.writeFile(writeme, processed, function(err) {
     if(err) {
         return console.log(err);
     }
