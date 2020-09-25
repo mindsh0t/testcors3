@@ -86,8 +86,8 @@ app.use(bodyParser.text({ type: 'text/plain' })), // for parsing application/jso
             return;
         }
             if((requestedUrl.replace(/^psid-(.*)/,'psid') == 'psid') && (req.originalUrl.replace(/.*psid-(.*)\?mode=html-preview/,'psid') != 'psid')){
+            var sendme = requestedUrl;
             res.set('content-type', 'application/json');                 
-            var sendme = requestedUrl
             res.send(fs.readFileSync(sendme, 'utf8'));
             return;
         }    
