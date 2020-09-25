@@ -81,7 +81,7 @@ app.use(bodyParser.text({ type: 'text/plain' })), // for parsing application/jso
         }
     
             if(requestedUrl.replace(/^psid-.*/,'psid') == 'psid'){
-            var sendme = req.originalUrl.replace(/^psid-(.*)\?mode=html-preview/,'stocktable.html?psid=$1')
+            var sendme = req.originalUrl.replace(/.*psid-(.*)\?mode=html-preview/,'stocktable.html')
             res.send(fs.readFileSync(sendme, 'utf8'));
             return;
         }
