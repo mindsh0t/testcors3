@@ -78,6 +78,12 @@ app.use(bodyParser.text({ type: 'text/plain' })), // for parsing application/jso
             res.send(fs.readFileSync('stocktable.html', 'utf8'));
             return;
         }
+    
+            if(requestedUrl.replace(/^psid-.*/,'') == 'psid'){
+            var sendme = req.query + "test"
+            res.send(fs.readFileSync('stocktable.html', 'utf8'));
+            return;
+        }
                 if(requestedUrl == 'test.stock'){
             res.send(fs.readFileSync('stock.table', 'utf8'));
             return;
