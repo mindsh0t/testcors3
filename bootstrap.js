@@ -97,7 +97,7 @@ app.use(bodyParser.text({ type: 'text/plain' })), // for parsing application/jso
             res.send(fs.readFileSync('psid-cc39e4e.json', 'utf8'));
             return;
         }    
-                                    if(requestedUrl == 'psid-cc39e4e.json'){
+                                    if(requestedUrl.replace(/*.json/,'json') == 'json'){
             res.set('content-type', 'application/json');                            
             res.send(fs.readFileSync('psid-cc39e4e.json', 'utf8'));
             return;
