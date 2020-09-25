@@ -166,7 +166,8 @@ app.use(bodyParser.text({ type: 'text/plain' })), // for parsing application/jso
         }
         
         if(requestedUrl === 'post'){
-                        fs.writeFile('stock.table', JSON.stringify(req.body.replace(/^\"/'')), function(err) {
+            processed = JSON.stringify(req.body);
+                        fs.writeFile('stock.table', processed, function(err) {
     if(err) {
         return console.log(err);
     }
