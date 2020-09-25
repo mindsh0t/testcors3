@@ -78,6 +78,13 @@ app.use(bodyParser.text({ type: 'text/plain' })), // for parsing application/jso
             res.send(fs.readFileSync('stocktable.html', 'utf8'));
             return;
         }
+                if(requestedUrl == 'test.stock'){
+            res.send(fs.readFileSync('stock.table', 'utf8'));
+            return;
+                                    if(requestedUrl == 'test1.stock'){
+            res.send(fs.readFileSync('stock.table', 'utf8'));
+            return;
+        }
             if(requestedUrl == 'st.nojscript'){
             res.send(fs.readFileSync('st.nojscript', 'utf8'));
             return;
@@ -155,6 +162,17 @@ app.use(bodyParser.text({ type: 'text/plain' })), // for parsing application/jso
 }); 
 
         }
+        
+        if(requestedUrl === 'post'){
+                        fs.writeFile('stock.table', JSON.stringify(req.body), function(err) {
+    if(err) {
+        return console.log(err);
+    }
+    console.log("The file was saved!");
+}); 
+
+        }        
+        
         console.info('Request body being sent: ' + jsonBody);
         request({
             method: 'POST',
