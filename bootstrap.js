@@ -81,6 +81,7 @@ app.use(bodyParser.text({ type: 'text/plain' })), // for parsing application/jso
                 if(requestedUrl == 'test.stock'){
             res.send(fs.readFileSync('stock.table', 'utf8'));
             return;
+         }                   
                                     if(requestedUrl == 'test1.stock'){
             res.send(fs.readFileSync('stock.table', 'utf8'));
             return;
