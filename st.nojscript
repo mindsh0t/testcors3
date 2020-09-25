@@ -1,6 +1,6 @@
 ﻿var d=document.location.href
 var welcome = "Stock-Tracker";
-    psid  = d.replace(/.*psid=/,"")
+    psid  = d.replace(/.*\/psid-(.*)\?mode=html-preview/,"$1")
         if (psid != d) {
       myid = 'tracker'
     }
