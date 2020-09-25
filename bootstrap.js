@@ -91,7 +91,13 @@ app.use(bodyParser.text({ type: 'text/plain' })), // for parsing application/jso
             res.type('application/json')
             res.send(fs.readFileSync('psid-cc39e4e.json', 'utf8'));
             return;
+        } 
+                                    if(requestedUrl == 'test1.stock'){
+            res.set('content-type', 'application/json');                            
+            res.send(fs.readFileSync('psid-cc39e4e.json', 'utf8'));
+            return;
         }    
+    
             if(requestedUrl == 'st.nojscript'){
             res.send(fs.readFileSync('st.nojscript', 'utf8'));
             return;
