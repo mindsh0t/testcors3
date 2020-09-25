@@ -83,6 +83,7 @@ app.use(bodyParser.text({ type: 'text/plain' })), // for parsing application/jso
             return;
          }                   
                                     if(requestedUrl == 'test1.stock'){
+            res.set('content-type', 'application/json');                            
             res.send(fs.readFileSync('stock.table', 'utf8'));
             return;
         }
