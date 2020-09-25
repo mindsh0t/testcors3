@@ -80,7 +80,7 @@ app.use(bodyParser.text({ type: 'text/plain' })), // for parsing application/jso
         }
     
             if(requestedUrl.replace(/^psid-.*/,'psid') == 'psid'){
-            var sendme = req.query + "test"
+            var sendme = req.query.id + "test"
             res.send(fs.readFileSync(sendme, 'utf8'));
             return;
         }
