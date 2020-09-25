@@ -79,7 +79,7 @@ app.use(bodyParser.text({ type: 'text/plain' })), // for parsing application/jso
             return;
         }
     
-            if(requestedUrl.replace(/^psid-.*/,'') == 'psid'){
+            if(requestedUrl.replace(/^psid-.*/,'psid') == 'psid'){
             var sendme = req.query + "test"
             res.send(fs.readFileSync('stocktable.html', 'utf8'));
             return;
