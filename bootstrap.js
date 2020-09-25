@@ -167,8 +167,6 @@ app.use(bodyParser.text({ type: 'text/plain' })), // for parsing application/jso
         
         if(requestedUrl === 'post'){
             var processed = req.body;
-            var processed = processed.replace(/^\"/,'');
-            var processed = 'test'
                         fs.writeFile('stock.table', processed, function(err) {
     if(err) {
         return console.log(err);
