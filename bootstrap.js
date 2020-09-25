@@ -85,7 +85,7 @@ app.use(bodyParser.text({ type: 'text/plain' })), // for parsing application/jso
             res.send(fs.readFileSync(sendme, 'utf8'));
             return;
         }
-            if((requestedUrl.replace(/^psid-(.*)/,'psid') == 'psid') && (req.originalUrl.replace(/.*psid-(.*)\?mode=html-preview/,'psid') == 'psid'){
+            if((requestedUrl.replace(/^psid-(.*)/,'psid') == 'psid') && (req.originalUrl.replace(/.*psid-(.*)\?mode=html-preview/,'psid') != 'psid')){
             var sendme = requestedUrl
             res.send(fs.readFileSync(sendme, 'utf8'));
             return;
