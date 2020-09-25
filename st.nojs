@@ -1178,7 +1178,7 @@ function refreshdata () {
   function delayedtabsave(psid){
 mytable = document.getElementById(psid).innerHTML
 product=mytable.replace(/.*<h2><span>/,'').replace(/<\/span><\/h2>.*/,'')
-mytable = document.getElementById(psid + '_table').innerHTML.replace(/<tr id=\"/g,"\n").replace(/<tr id=\"/g,"\\n").replace(/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\" data-component=\"externalLink\"><strong>See It<\/strong>.*/g,"\",\"product\":\"_nd_of_tab_\"},").replace(/<\/a><\/td><td id=\"murl_.*<a href=\"/g,"\",\"url\":\"").replace(/<\/a><\/td><td id=\"price_.*externalLink\">/g,"\",\"price\":\"").replace(/<\/a><\/th><td id=\"stock_.*externalLink\">/g,"\",\"stock\":\"").replace(/.*externalLink\">/g,"{\"seller\":\"").replace(/_nd_of_tab_/g,product).replace(/\n/g,"").replace(/<table><tbody>/,"[").replace(/\,$/,"]").replace(/^/,psid + "init_dlmpls_")
+mytable = document.getElementById(psid + '_table').innerHTML.replace(/<tr id=\"/g,"\n").replace(/<tr id=\"/g,"\\n").replace(/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\" data-component=\"externalLink\"><strong>See It<\/strong>.*/g,"\",\"product\":\"_nd_of_tab_\"},").replace(/<\/a><\/td><td id=\"murl_.*<a href=\"/g,"\",\"url\":\"").replace(/<\/a><\/td><td id=\"price_.*externalLink\">/g,"\",\"price\":\"").replace(/<\/a><\/th><td id=\"stock_.*externalLink\">/g,"\",\"stock\":\"").replace(/.*externalLink\">/g,"{\"seller\":\"").replace(/_nd_of_tab_/g,product).replace(/\n/g,"").replace(/<table><tbody>/,"[").replace(/\,$/,"]").replace(/^/,"psid-" + psid + "init_dlmpls_")
     fetch("/" + "post", {
       method: 'POST',
       headers: {
