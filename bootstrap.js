@@ -86,7 +86,7 @@ app.use(bodyParser.text({ type: 'text/plain' })), // for parsing application/jso
             return;
         }
             if((requestedUrl.replace(/^psid-(.*)/,'psid') == 'psid') && (req.originalUrl.replace(/.*psid-(.*)\?mode=html-preview/,'psid') != 'psid')){
-            var sendme = requestedUrl;
+            var sendme = requestedUrl + ".json";
             res.set('content-type', 'application/json'); 
             res.type('application/json')
             res.send(fs.readFileSync(sendme, 'utf8'));
@@ -172,7 +172,7 @@ app.use(bodyParser.text({ type: 'text/plain' })), // for parsing application/jso
         
         if(requestedUrl === 'post'){
             var processed = req.body.replace(/.*init_dlmpls_/,'');
-            var writeme = req.body.replace(/init_dlmpls_.*/,'');
+            var writeme = req.body.replace(/init_dlmpls_.*/,'.json');
 
                         fs.writeFile(writeme, processed, function(err) {
     if(err) {
