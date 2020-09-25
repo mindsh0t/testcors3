@@ -701,6 +701,8 @@ if (myprice.replace(/\d/,"") != myprice) {
   save = savedata()
 }   
 if ((captcha != "yes") && (doc.getElementsByTagName("title")[0] != null)){
+ mypsid = val.replace (/_psid_.*/,"")
+ savetable(mypsid)
  save = savedata()
 }
 if ((captcha != "yes") && (retrynum == 80)){
@@ -1172,7 +1174,21 @@ function refreshdata () {
   saveme()
   setTimeout(refreshdata, 1200000)
   }
-
+  
+  function delayedtabsave(psid){
+mytable = document.getElementById(psid).innerHTML
+product=mytable.replace(/.*<h2><span>/,'').replace(/<\/span><\/h2>.*/,'')
+mytable = document.getElementById(psid + '_table').innerHTML.replace(/<tr id=\"/g,"\n").replace(/<tr id=\"/g,"\\n").replace(/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\" data-component=\"externalLink\"><strong>See It<\/strong>.*/g,"\",product:\"_nd_of_tab_\"},").replace(/<\/a><\/td><td id=\"murl_.*<a href=\"/g,"\",url:\"").replace(/<\/a><\/td><td id=\"price_.*externalLink\">/g,"\",price:\"").replace(/<\/a><\/th><td id=\"stock_.*externalLink\">/g,"\",stock:\"").replace(/.*externalLink\">/g,"{seller:\"").replace(/_nd_of_tab_/g,product).replace(/\n/g,"").replace(/<table><tbody>/,"[").replace(/\,$/,"]")
+    fetch("/" + "post", {
+      method: 'POST',
+      headers: {
+        "Content-Type": "text/plain",
+      }
+  ,
+  body: mytable
+    })
+  .then((response) => response.text())
+     }
   function delayedsave(){
     fetch("/", {
       method: 'POST',
@@ -1192,6 +1208,16 @@ function refreshdata () {
       };
       saveme()
       }
+           function savetable (psid) {
+        const delay = ms => new Promise(res => setTimeout(res, ms));
+        const savemetab = async () => {
+          await delay(4000);
+          delayedtabsave(psid)
+        };
+        savemetab()
+        } 
+      
+      
       function autorefreshentry(entryid){
         if (JSON.parse(window.localStorage.getItem('interval-new')) != null) {
           oldinterval = JSON.parse(window.localStorage.getItem('interval-new'))
