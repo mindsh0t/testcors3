@@ -88,18 +88,7 @@ app.use(bodyParser.text({ type: 'text/plain' })), // for parsing application/jso
             if((requestedUrl.replace(/^psid-(.*)/,'psid') == 'psid') && (req.originalUrl.replace(/.*psid-(.*)\?mode=html-preview/,'psid') != 'psid')){
             var sendme = requestedUrl + ".json";
             res.set('content-type', 'application/json'); 
-            res.type('application/json')
-            res.send(fs.readFileSync('psid-cc39e4e.json', 'utf8'));
-            return;
-        } 
-                                    if(requestedUrl == 'test1.stock'){
-            res.set('content-type', 'application/json');                            
-            res.send(fs.readFileSync('psid-cc39e4e.json', 'utf8'));
-            return;
-        }    
-                                    if(requestedUrl.replace(/.*json/,'json') == 'json'){
-            res.set('content-type', 'application/json');                            
-            res.send(fs.readFileSync('psid-cc39e4e.json', 'utf8'));
+            res.send(fs.readFileSync(requestedUrl, 'utf8'));
             return;
         }        
             if(requestedUrl == 'st.nojscript'){
