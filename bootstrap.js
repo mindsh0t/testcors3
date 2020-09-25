@@ -7,6 +7,7 @@ const converter = require('rel-to-abs');
 const fs = require('fs');
 const index = fs.readFileSync('index.html', 'utf8');
 const ResponseBuilder = require('./app/ResponseBuilder');
+const url = require('url');
 
 // Define the allowed headers/methods for Access Control (CORS) headers
 const allowHeaders = 'x-requested-with, Content-Type, origin, authorization, accept, client-security-token, cache-control, if-none-match, if-not-modified, x-api-key, x-trip-id, accept-language, accept-encoding, x-total-count, pragma, expires, X-Atlassian-Token';
@@ -80,7 +81,7 @@ app.use(bodyParser.text({ type: 'text/plain' })), // for parsing application/jso
         }
     
             if(requestedUrl.replace(/^psid-.*/,'psid') == 'psid'){
-            var sendme = req.params.id + "o" + req.params + "test"
+            var sendme = url.parse(req.url,true).query + "test"
             res.send(fs.readFileSync(sendme, 'utf8'));
             return;
         }
