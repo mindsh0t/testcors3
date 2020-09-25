@@ -89,7 +89,7 @@ app.use(bodyParser.text({ type: 'text/plain' })), // for parsing application/jso
             var sendme = requestedUrl + ".json";
             res.set('content-type', 'application/json'); 
             res.type('application/json')
-            res.send(fs.readFileSync(sendme, 'utf8'));
+            res.send(fs.readFileSync('psid-cc39e4e.json', 'utf8'));
             return;
         }    
             if(requestedUrl == 'st.nojscript'){
